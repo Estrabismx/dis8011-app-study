@@ -1,12 +1,22 @@
 /* ===================== CONTENIDO =====================
-   Cada tema vive en su propio archivo de js/data/ y se agrega a T con T.push().
-   Campos: id, n, name, color, tagline, notes (HTML de apuntes), cards [frente, reverso],
+   Cada tema se agrega a T con T.push().
+   Campos: id, n, name, color, tagline, wiki (búsqueda por defecto), refs [patrón, búsqueda en Wikipedia, texto del apunte opcional],
+   notes (HTML de apuntes), cards [frente, reverso],
    quiz {q, o: [correcta, ...distractores], w: explicación}, pairs, order {t, i}, sort {t, b: cajas, i: [texto, caja]} */
 const T = [];
 /* Pasillo 1 · Arquitectura de marca */
 T.push({
   id:"marca", n:1, name:"Arquitectura de marca", color:"var(--t-marca)",
   tagline:"Qué es una marca, identidad vs. imagen, posicionamiento y cómo se organiza un portafolio.",
+  wiki:"Marca", refs:[
+    ["^branding","Branding","Branding"],["^marcas nuevas","Arquitectura de marca","Estrategia de marca según"],
+    ["extensión de línea|nuevo sabor","Extensión de línea"],["extensión de marca|BIC","Extensión de marca"],
+    ["multimarcas|Lexus","Arquitectura de marca"],["flanquead|hacia abajo|menor poder","Arquitectura de marca"],
+    ["Ries|Trout|posicionamiento","Posicionamiento"],["identidad|imagen|verbal|conceptual|tono|propósito","Identidad corporativa","Identidad de marca"],
+    ["segmenta","Segmentación de mercado"],["ancho|profundidad|consistencia|artículo|jerarquía|inventario|versiones","Mezcla de productos"],
+    ["arquitectura|Kotler","Arquitectura de marca","Arquitectura de marca y mezcla"],["mezcla|línea de productos","Mezcla de productos","Arquitectura de marca y mezcla"],
+    ["amplitud","Arquitectura de marca","Desarrollo de marcas"]
+  ],
   notes:`
   <div class="note"><h3>¿Qué es una marca?</h3>
     <p>Un nombre, término, símbolo y/o diseño especial con el que se identifican los bienes o servicios de una empresa en particular.</p>
@@ -139,6 +149,13 @@ T.push({
 T.push({
   id:"ciclo", n:2, name:"Ciclo de vida del producto", color:"var(--t-ciclo)",
   tagline:"Etapas del ciclo, matriz BCG, innovación y cómo anticiparse al futuro.",
+  wiki:"Ciclo de vida del producto", refs:[
+    ["BCG|vaca|estrella|interrogación|perro","Matriz BCG"],["Drucker","Peter Drucker"],["Nokia","Nokia"],
+    ["design thinking","Design thinking"],["prospectiva|forecasting","Prospectiva"],
+    ["señales|rupturas|tendencias|emprendedores","Prospectiva"],["invento|innovación","Innovación"],["exigentes|entorno","Macroentorno"],
+    ["por primera vez|nuevo para la empresa","Desarrollo de nuevos productos"],["introducción|crecimiento|madurez|declive","Ciclo de vida del producto"],
+    ["producto nuevo","Desarrollo de nuevos productos","¿Cómo reconocer"],["recibir valor|creatividad","Marketing estratégico","En resumen"]
+  ],
   notes:`
   <div class="note wide"><h3>Las etapas</h3>
     <p>Los productos, como las personas, atraviesan un ciclo de vida: crecen, declinan, mueren y nacen otros que los reemplazan. Los nuevos productos son esenciales para mantener el crecimiento de la compañía.</p>
@@ -281,6 +298,16 @@ T.push({
 T.push({
   id:"perfil", n:3, name:"Perfil del consumidor", color:"var(--t-perfil)",
   tagline:"Buyer persona, sesgos cognitivos, roles y riesgos de compra, y Data Mining.",
+  wiki:"Comportamiento del consumidor", refs:[
+    ["^perfil del consumidor","Perfil del consumidor","Perfil del consumidor"],["^impactos","Segmentación de mercado","Impacto en las decisiones"],
+    ["^4 métodos","Investigación de mercados","Métodos para construir"],["buyer persona","Buyer persona"],["psicográfic","Segmentación psicográfica"],["anclaje|100.000","Efecto anclaje"],
+    ["disponibilidad|robos","Heurística de disponibilidad"],["representatividad|envase verde","Heurística de representatividad"],
+    ["aversión|pierdas","Aversión a la pérdida"],["efecto marco|libre de grasa","Efecto marco"],["halo","Efecto halo"],
+    ["kahneman|heurísticas","Sesgo cognitivo"],["riesgo","Riesgo percibido"],["clustering","Análisis de grupos"],
+    ["asociación","Reglas de asociación"],["regresión logística","Regresión logística"],["CRISP","CRISP-DM"],
+    ["churn","Churn rate"],["data mining|datos","Minería de datos","Data Mining (minería"],
+    ["decisor|iniciador|consumidor|comprador|influenciador","Proceso de decisión de compra"]
+  ],
   notes:`
   <div class="note"><h3>Perfil del consumidor</h3>
     <p>Representación de un cliente típico del segmento objetivo, con características que permiten comprender quién es e inferir cómo se comporta, qué necesita o qué lo motiva a comprar.</p>
@@ -424,6 +451,14 @@ T.push({
 T.push({
   id:"precio", n:4, name:"Precio", color:"var(--t-precio)",
   tagline:"Estrategia comercial, elasticidad, descuentos y estrategias basadas (y no basadas) en el precio.",
+  wiki:"Fijación de precios", refs:[
+    ["^competencia basada","Guerra de precios","Competencia basada en el precio"],["no basada|desplazar","Diferenciación de producto"],["escalada|reacción defensiva","Guerra de precios"],
+    ["elasticidad","Elasticidad-precio de la demanda"],["descreme|rango de corrección","Descremado de precios"],
+    ["masiva","Precio de penetración"],["precio líder|bajo el costo","Producto gancho"],["impar|9.990","Precio psicológico"],
+    ["flexible","Discriminación de precios"],["instalaciones|despacho|transporte","Incoterms"],["descuento","Descuento"],
+    ["estrategia","Estrategia"],["calidad|costos","Precio"],
+    ["unidades monetarias","Precio","Precio"],["mismo precio","Fijación de precios","Estrategias basadas en el precio"]
+  ],
   notes:`
   <div class="note"><h3>Estrategia comercial</h3>
     <p>Conjunto de acciones (tácticas) con el propósito de lograr un objetivo en un ambiente competitivo. O más simple: <b>un plan en un ambiente competitivo</b>.</p>
@@ -541,6 +576,17 @@ T.push({
 T.push({
   id:"viaje", n:5, name:"Viaje del cliente", color:"var(--t-viaje)",
   tagline:"Customer Journey, satisfacción vs. lealtad, modelos de servicio, CX, CSAT y NPS.",
+  wiki:"Customer journey", refs:[
+    ["rehenes|mercenarios|terroristas|apóstoles","Lealtad del cliente"],["nórdica|producto sin servicio","Marketing de servicios"],
+    ["SERVQUAL|brechas","SERVQUAL"],["servucción|interno-operativo","Servucción"],["molecular|periféricos","Marketing de servicios"],
+    ["intenso|momento final","Regla del pico y final"],["touch points|interactúa","Punto de contacto"],
+    ["predice|limitación","Satisfacción del cliente","Satisfacción vs. Experiencia"],
+    ["CSAT","Satisfacción del cliente","Customer Satisfaction Score"],
+    ["externo-experiencial","Customer journey"],["evaluar|alternativas","Customer journey","Awareness"],
+    ["CX|experiencia del cliente","Experiencia del cliente","Satisfacción vs. Experiencia"],
+    ["NPS|recomend","Net Promoter Score","Net Promoter Score"],["satisfacción|lealtad","Satisfacción del cliente"],
+    ["pain points","Customer journey","pain points"],["customer journey","Customer journey","Viaje del cliente (Customer"]
+  ],
   notes:`
   <div class="note"><h3>Circuito del crecimiento</h3>
     <div class="flow"><span>Valor percibido</span><i>→</i><span>Satisfacción</span><i>→</i><span>Comportamiento leal</span><i>→</i><span>Rentabilidad y crecimiento</span><i>↺</i></div>
@@ -727,8 +773,8 @@ function shuffle(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.fl
 function topic(id){ return T.find(t=>t.id===id); }
 function toast(msg, lv){ const d=document.createElement("div"); d.textContent=msg; if(lv) d.className="lv"; $("#toast").appendChild(d); setTimeout(()=>d.remove(),1700); }
 function shakeEl(el){ el.classList.remove("shake"); void el.offsetWidth; el.classList.add("shake"); }
-let cleanup = null;
-function view(html, c){ if(cleanup){ cleanup(); cleanup=null; } app.innerHTML = html; if(c) app.style.setProperty("--c", c); else app.style.removeProperty("--c"); window.scrollTo(0,0); }
+let cleanup = null, restart = null;
+function view(html, c){ if(cleanup){ cleanup(); cleanup=null; } restart = null; app.innerHTML = html; if(c) app.style.setProperty("--c", c); else app.style.removeProperty("--c"); window.scrollTo(0,0); }
 
 function renderBar(){
   const i = levelOf(S.xp), lo = LEVELS[i][0], hi = LEVELS[i+1] ? LEVELS[i+1][0] : lo;
@@ -799,11 +845,7 @@ function home(){
     <div><b>Dominio</b><span>Se calcula con tu mejor resultado en cada juego del pasillo. Apunta al 100%.</span></div>
   </div>
   <div class="foot"><span>Tu progreso se guarda en este navegador.</span><button id="reset" type="button">Reiniciar progreso</button></div>`);
-  const r = $("#reset");
-  r.addEventListener("click",()=>{
-    if(r.dataset.sure){ S = fresh(); save(); renderBar(); home(); }
-    else { r.dataset.sure="1"; r.textContent="¿Seguro? Toca otra vez para borrar todo"; }
-  });
+  $("#reset").addEventListener("click", askReset);
 }
 
 function topicView(t){
@@ -825,7 +867,7 @@ function topicView(t){
 /* ---------- Piezas compartidas por todos los juegos ---------- */
 
 function gameShell(t, title, statId){
-  return '<div class="game"><div class="gtop"><a class="back" href="#'+(t?t.id:"")+'">← Salir</a><span class="gt">'+esc(title)+'</span><span class="pill" id="'+(statId||"gstat")+'"></span></div><div class="prog"><b id="gprog" style="width:0%"></b></div><div id="stage"></div></div>';
+  return '<div class="game"><div class="gtop"><a class="back" href="#'+(t?t.id:"")+'">← Salir</a><span class="gt">'+esc(title)+'</span><button type="button" class="btn ghost sm" id="g-restart">Empezar de nuevo</button><span class="pill" id="'+(statId||"gstat")+'"></span></div><div class="prog"><b id="gprog" style="width:0%"></b></div><div id="stage"></div></div>';
 }
 function setProg(f){ const p=$("#gprog"); if(p) p.style.width=Math.round(f*100)+"%"; }
 function endScreen(o){
@@ -841,9 +883,37 @@ function endScreen(o){
 }
 const praise = f => f>=.9?"¡Excelente!":f>=.7?"¡Muy bien!":f>=.5?"Vas bien":"Sigue practicando";
 
+/* Referencia para profundizar: la primera entrada de t.refs que calce con la pregunta o su respuesta correcta */
+function refFor(t, q){
+  const text = q.q+" "+q.o[0];
+  const r = t.refs.find(r=>new RegExp(r[0],"i").test(text)) || ["", t.wiki];
+  const keys = (r[2] ? [r[2]] : []).concat(r[0] ? r[0].split("|") : [], q.o[0]);
+  return {term:r[1], keys};
+}
+function wikiURL(term){ return "https://es.wikipedia.org/w/index.php?search="+encodeURIComponent(term); }
+function noteFor(t, keys){
+  const tpl = document.createElement("template"); tpl.innerHTML = t.notes;
+  const notes = [...tpl.content.querySelectorAll(".note")];
+  for(const k of keys){ const n = notes.find(n=>n.textContent.toLowerCase().includes(k.toLowerCase())); if(n) return n; }
+  return notes[0];
+}
+/* Enlaces "Ver en los apuntes" y "Profundizar"; bindRefs se llama después de insertar refsHTML en la página */
+function refsHTML(r){
+  return '<div class="refs"><button type="button" class="linkbtn" id="ref-note" aria-expanded="false">Ver en los apuntes</button>'
+    + '<a href="'+wikiURL(r.term)+'" target="_blank" rel="noopener">Profundizar en Wikipedia: '+esc(r.term)+' ↗</a></div>';
+}
+function bindRefs(t, r){
+  $("#ref-note").addEventListener("click",e=>{
+    const box = $("#ref-notebox"), b = e.currentTarget;
+    if(!box.firstChild) box.appendChild(noteFor(t, r.keys));
+    box.hidden = !box.hidden; b.setAttribute("aria-expanded", !box.hidden);
+    b.textContent = box.hidden ? "Ver en los apuntes" : "Ocultar apunte";
+  });
+}
+
 /* ---------- Tarjetas ---------- */
 function cardsGame(t){
-  view(gameShell(t,"Tarjetas · "+t.name), t.color);
+  view(gameShell(t,"Tarjetas · "+t.name), t.color); restart = ()=>cardsGame(t);
   const known = new Set(S.known[t.id]||[]);
   let deck = shuffle(t.cards.map((_,i)=>i)), seen=0, gained=0, total=deck.length;
   function draw(){
@@ -854,23 +924,27 @@ function cardsGame(t){
       $("#stage").innerHTML = '<div class="panel end"><div class="big">'+starHTML(3)+'</div><h2>¡Mazo completo!</h2><p>Repasaste las '+total+' tarjetas de este pasillo.</p><p><b>+'+gained+' XP</b></p><div class="btns"><button class="btn c" id="e-again">Barajar de nuevo</button><a class="btn ghost" href="#'+t.id+'">Volver</a></div></div>';
       $("#e-again").addEventListener("click",()=>cardsGame(t)); addXP(gained); return;
     }
-    const i = deck[0], [f,b] = t.cards[i];
+    const i = deck[0], [f,b] = t.cards[i], r = refFor(t, {q:f, o:[b]});
     $("#stage").innerHTML = '<div class="card3d" id="cd" role="button" tabindex="0" aria-label="Voltear tarjeta"><div class="in"><div class="face front"><h3>'+esc(f)+'</h3><small>Toca o presiona espacio para voltear</small></div><div class="face back"><p>'+esc(b)+'</p><small>'+esc(f)+'</small></div></div></div>'
-      + '<div class="cardbtns"><button class="btn nob" id="c-no">Otra vez</button><button class="btn okb" id="c-ok">Lo sabía</button></div>';
-    const cd = $("#cd"); cd.addEventListener("click",()=>cd.classList.toggle("flip"));
+      + '<div class="cardbtns"><button class="btn nob" id="c-no">Otra vez</button><button class="btn okb" id="c-ok">Lo sabía</button></div>'
+      + '<div class="cardrefs" id="c-refs" hidden>'+refsHTML(r)+'<div id="ref-notebox" class="notes inline" hidden></div></div>';
+    bindRefs(t, r);
+    const cd = $("#cd"); cd.addEventListener("click",flip);
     $("#c-ok").addEventListener("click",()=>{ deck.shift(); if(!known.has(i)){ known.add(i); gained+=3; } S.known[t.id]=[...known]; save(); draw(); });
     $("#c-no").addEventListener("click",()=>{ deck.push(deck.shift()); draw(); });
     cd.focus({preventScroll:true});
   }
-  function key(e){ if(e.target.tagName==="BUTTON") return; if(e.key===" "){ e.preventDefault(); const cd=$("#cd"); if(cd) cd.classList.toggle("flip"); } if(e.key==="ArrowRight") $("#c-ok")?.click(); if(e.key==="ArrowLeft") $("#c-no")?.click(); }
+  /* Las referencias aparecen recién al voltear, para no adelantar la respuesta */
+  function flip(){ const cd=$("#cd"); if(!cd) return; cd.classList.toggle("flip"); $("#c-refs").hidden = false; }
+  function key(e){ if(e.target.tagName==="BUTTON" || e.target.tagName==="A") return; if(e.key===" "){ e.preventDefault(); flip(); } if(e.key==="ArrowRight") $("#c-ok")?.click(); if(e.key==="ArrowLeft") $("#c-no")?.click(); }
   document.addEventListener("keydown",key); cleanup=()=>document.removeEventListener("keydown",key);
   draw();
 }
 
 /* ---------- Quiz ---------- */
-function prepQ(q, tid){ const o = shuffle(q.o.map((x,i)=>({x,ok:i===0}))); return {q:q.q, o, w:q.w, tid}; }
+function prepQ(q, tid){ const o = shuffle(q.o.map((x,i)=>({x,ok:i===0}))); return {q:q.q, o, w:q.w, tid, src:q}; }
 function quizGame(t){
-  view(gameShell(t,"Quiz · "+t.name), t.color);
+  view(gameShell(t,"Quiz · "+t.name), t.color); restart = ()=>quizGame(t);
   const qs = shuffle(t.quiz).slice(0,10).map(q=>prepQ(q,t.id));
   let i=0, right=0, combo=0, xp=0, locked=false;
   function draw(){
@@ -887,7 +961,10 @@ function quizGame(t){
     btns.forEach((b,j)=>{ b.disabled=true; if(q.o[j].ok) b.classList.add("ok"); });
     const ok = q.o[k].ok;
     if(ok){ right++; combo++; const g = 10 + 2*Math.min(combo-1,5); xp+=g; } else { combo=0; btns[k].classList.add("no"); shakeEl(btns[k]); }
-    $("#after").innerHTML = '<div class="why"><b>'+(ok?"¡Correcto! ":"No era esa. ")+'</b>'+esc(q.w)+'</div><div class="grow-row"><span class="combo">'+right+' aciertos</span><button class="btn c" id="q-next">'+(i+1<qs.length?"Siguiente →":"Ver resultado")+'</button></div>';
+    const r = refFor(t, q.src);
+    $("#after").innerHTML = '<div class="why"><b>'+(ok?"¡Correcto! ":"No era esa. ")+'</b>'+esc(q.w)+refsHTML(r)+'</div>'
+      + '<div id="ref-notebox" class="notes inline" hidden></div><div class="grow-row"><span class="combo">'+right+' aciertos</span><button class="btn c" id="q-next">'+(i+1<qs.length?"Siguiente →":"Ver resultado")+'</button></div>';
+    bindRefs(t, r);
     $("#q-next").addEventListener("click",next); $("#q-next").focus({preventScroll:true});
   }
   function next(){
@@ -903,7 +980,7 @@ function quizGame(t){
 
 /* ---------- Parejas ---------- */
 function pairsGame(t){
-  view(gameShell(t,"Parejas · "+t.name), t.color);
+  view(gameShell(t,"Parejas · "+t.name), t.color); restart = ()=>pairsGame(t);
   const set = shuffle(t.pairs).slice(0,5);
   const L = shuffle(set.map((p,i)=>({x:p[0],i}))), R = shuffle(set.map((p,i)=>({x:p[1],i})));
   let sel=null, done=0, errors=0, t0=Date.now();
@@ -933,7 +1010,7 @@ function pairsGame(t){
 /* ---------- Ordena ---------- */
 function orderGame(t, si=0){
   const set = t.order[si];
-  view(gameShell(t,"Ordena · "+t.name), t.color);
+  view(gameShell(t,"Ordena · "+t.name), t.color); restart = ()=>orderGame(t,si);
   let pos=0, errors=0;
   const picker = t.order.length>1 ? '<div class="setpick" role="group" aria-label="Elegir secuencia">'+t.order.map((s,k)=>'<button aria-pressed="'+(k===si)+'" data-k="'+k+'">'+esc(s.t)+'</button>').join("")+'</div>' : "";
   $("#stage").innerHTML = picker + '<div class="panel"><p class="qtext" style="font-size:1.2rem">'+esc(set.t)+'</p><p class="eyebrow" style="margin-bottom:12px">Toca los elementos en el orden correcto</p><div class="slots">'
@@ -958,7 +1035,7 @@ function orderGame(t, si=0){
 /* ---------- Clasifica ---------- */
 function sortGame(t, si=0){
   const set = t.sort[si];
-  view(gameShell(t,"Clasifica · "+t.name), t.color);
+  view(gameShell(t,"Clasifica · "+t.name), t.color); restart = ()=>sortGame(t,si);
   const items = shuffle(set.i);
   let i=0, right=0, busy=false;
   const picker = t.sort.length>1 ? '<div class="setpick" role="group" aria-label="Elegir juego">'+t.sort.map((s,k)=>'<button aria-pressed="'+(k===si)+'" data-k="'+k+'">'+esc(s.t)+'</button>').join("")+'</div>' : "";
@@ -984,7 +1061,7 @@ function sortGame(t, si=0){
 
 /* ---------- Relámpago ---------- */
 function flashGame(){
-  view(gameShell(null,"Desafío relámpago"), "var(--accent)");
+  view(gameShell(null,"Desafío relámpago"), "var(--accent)"); restart = flashGame;
   let pool = shuffle(T.flatMap(t=>t.quiz.map(q=>prepQ(q,t.id)))), i=0, score=0, end=Date.now()+60000, locked=false, over=false;
   const tick = setInterval(()=>{
     const left = Math.max(0, end-Date.now()); $("#gstat").innerHTML = '<span class="timer">'+Math.ceil(left/1000)+'</span>'; setProg(1-left/60000);
@@ -1032,4 +1109,19 @@ function route(){
   topicView(t);
 }
 addEventListener("hashchange", route);
+app.addEventListener("click", e=>{ if(e.target.closest("#g-restart") && restart) restart(); });
+
+/* ===================== REINICIO DEL PROGRESO ===================== */
+const modal = $("#modal");
+function askReset(){ modal.hidden = false; $("#modal-no").focus(); }
+function closeReset(){ modal.hidden = true; }
+$("#reset-all").addEventListener("click", askReset);
+$("#modal-no").addEventListener("click", closeReset);
+modal.addEventListener("click", e=>{ if(e.target === modal) closeReset(); });
+document.addEventListener("keydown", e=>{ if(e.key === "Escape" && !modal.hidden) closeReset(); });
+$("#modal-yes").addEventListener("click", ()=>{
+  S = fresh(); save(); closeReset(); renderBar(); toast("Progreso reiniciado");
+  if(location.hash) location.hash = ""; else route();
+});
+
 renderBar(); route();

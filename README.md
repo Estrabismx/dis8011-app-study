@@ -15,3 +15,5 @@ main.js      Contenido de los temas, progreso guardado, pantallas, juegos y ruta
 ## Agregar o editar contenido
 
 Busca el `T.push({...})` del tema en `main.js`. En `quiz`, la **primera** opción de `o` es la correcta (se barajan al jugar). Para un tema nuevo, agrega otro `T.push({...})` junto a los demás.
+
+Cada tema tiene `refs`: una lista de `[patrón, búsqueda en Wikipedia, texto del apunte]`. Tras responder una pregunta del quiz, se usa la primera entrada cuyo patrón (palabras separadas por `|`) aparezca en la pregunta o en su respuesta correcta. Esa entrada define el enlace "Profundizar en Wikipedia" y el apunte que se muestra con "Ver en los apuntes". El tercer valor es opcional y sirve para forzar un apunte específico. Si ninguna entrada calza, se usa `wiki`.

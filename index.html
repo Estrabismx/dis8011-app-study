@@ -16,10 +16,18 @@
 <header class="bar"><div class="bar-in">
   <a class="logo" href="#"><i></i>Góndola de Marketing</a>
   <div class="lvl" id="lvl"></div>
+  <button type="button" class="btn ghost sm" id="reset-all">Reiniciar progreso</button>
 </div></header>
 <main class="wrap" id="app"></main>
 <div class="toast" id="toast"></div>
 <canvas id="confetti"></canvas>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-t" hidden>
+  <div class="modal-box">
+    <h2 id="modal-t">¿Reiniciar todo tu progreso?</h2>
+    <p>Se borran tu XP, nivel, racha, récord relámpago, tarjetas sabidas y mejores puntajes. No se puede deshacer.</p>
+    <div class="btns"><button type="button" class="btn ghost" id="modal-no">Cancelar</button><button type="button" class="btn nob" id="modal-yes">Sí, reiniciar</button></div>
+  </div>
+</div>
 
 <script src="main.js"></script>
 </body>
