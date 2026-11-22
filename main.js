@@ -111,8 +111,9 @@ function home(){
     <div><b>Parejas, Ordena y Clasifica</b><span>Juegos cortos para fijar relaciones, secuencias y categorías.</span></div>
     <div><b>Dominio</b><span>Se calcula con tu mejor resultado en cada juego del pasillo. Apunta al 100%.</span></div>
   </div>
-  <div class="foot"><span>Tu progreso se guarda en este navegador.</span><button id="reset" type="button">Reiniciar progreso</button></div>`);
+  <div class="foot"><span>Tu progreso se guarda en este navegador.</span><span class="foot-btns"><button id="cookies-show" type="button">Aviso sobre cookies</button><button id="reset" type="button">Reiniciar progreso</button></span></div>`);
   $("#reset").addEventListener("click", askReset);
+  $("#cookies-show").addEventListener("click", showCookies);
 }
 
 function topicView(t){
@@ -390,5 +391,14 @@ $("#modal-yes").addEventListener("click", ()=>{
   S = fresh(); save(); closeReset(); renderBar(); toast("Progreso reiniciado");
   if(location.hash) location.hash = ""; else route();
 });
+
+/* ===================== AVISO SOBRE COOKIES =====================
+   La web no usa cookies; el aviso lo explica y se cierra para siempre con "Entendido".
+   Se recuerda en su propia clave, así que "Reiniciar progreso" no lo vuelve a mostrar. */
+const COOKIES_KEY = "gondola-aviso-cookies-v1";
+const cookiesBox = $("#cookies");
+function showCookies(){ cookiesBox.hidden = false; $("#cookies-ok").focus(); }
+$("#cookies-ok").addEventListener("click", ()=>{ cookiesBox.hidden = true; try{ localStorage.setItem(COOKIES_KEY, "1"); }catch(e){} });
+try{ if(!localStorage.getItem(COOKIES_KEY)) cookiesBox.hidden = false; }catch(e){ cookiesBox.hidden = false; }
 
 renderBar(); route();

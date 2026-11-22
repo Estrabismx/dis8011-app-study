@@ -39,6 +39,8 @@ Van en el orden del curso, según el campo `n` de cada tema:
 
 El `id` se guarda en el progreso del navegador: no lo cambies o se pierde el avance de ese pasillo. Tampoco puede llevar guiones.
 
+Ningún archivo o carpeta del sitio puede empezar con `_`: GitHub Pages (Jekyll) no los publica y la web queda en blanco.
+
 ## Agregar o editar contenido
 
 Edita el archivo del pasillo en `temas/`. En `quiz`, la **primera** opción de `o` es la correcta (se barajan al jugar).
