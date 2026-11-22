@@ -1,0 +1,102 @@
+{
+  "archivo_pdf": "pdf/conocimiento-e-informacion.pdf",
+  "archivo_md": "markdown/conocimiento-e-informacion.md",
+  "nombre_original": "Lo primero.pdf",
+  "titulo": "El principio",
+  "fecha": "Agosto 2026",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 24,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en todas las diapositivas: código de barras sobre un papel enrollado con el nombre 'René Rodríguez A.' en la esquina inferior izquierda. Es solo marca del autor, sin contenido de estudio."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'El principio'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Botón rojo redondo y brillante con la palabra 'START' en blanco. Simboliza el inicio del curso."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Conocimiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Pirámide de cuatro niveles (pirámide DIKW). De la base a la cima: DATO (azul oscuro, ícono de documento con engranaje), INFORMACIÓN (azul violeta, ícono de base de datos), CONOCIMIENTO (celeste, ícono de ampolleta), SABIDURÍA (amarillo, ícono de cabeza con cerebro). Muestra que cada nivel se construye sobre el anterior."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "¿Qué es la información?",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Fondo difuminado azul con columnas de números (estilo base de datos digital), que representa grandes volúmenes de datos."},
+        {"tipo": "diagrama", "descripcion": "Flujo simple de tres cajas: Datos → Procesamiento → Información. Los datos procesados se convierten en información."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Cita sobre inteligencia y sabiduría",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Retrato en blanco y negro de Albert Einstein sobre fondo oscuro, con la cita en mayúsculas: \"Una persona inteligente resuelve un problema. Una persona sabia lo evita.\" (la palabra 'RESUELVE' destacada en amarillo).", "texto_en_imagen": "UNA PERSONA INTELIGENTE RESUELVE UN PROBLEMA. UNA PERSONA SABIA LO EVITA."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Pirámide de necesidades (Maslow)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Pirámide 3D de Maslow con cinco niveles y etiquetas en franjas de color. De la base a la cima: FISIOLÓGICAS (celeste), SEGURIDAD (verde), SOCIALES (amarillo), RECONOCIMIENTO (naranja), AUTORREALIZACIÓN (rojo). Complementa la diapositiva previa sobre necesidades, deseos y demandas."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "La columna vertebral del marketing",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Dibujo anatómico en blanco y negro de una columna vertebral humana vista de perfil. Es una metáfora visual del texto: 'La columna vertebral del marketing es la creación de valor'."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "La dinámica del intercambio: Industria vs Mercado",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Dos círculos azules: INDUSTRIA (conjunto de vendedores) a la izquierda y MERCADO (conjunto de compradores) a la derecha. Flechas entre ellos: la industria entrega 'Bienes y Servicios' y 'Comunicación' al mercado; el mercado devuelve 'Dinero' e 'Información' a la industria."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Micro y macro entorno",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Óvalo grande (Macro Entorno, recuadro PESTAL: Político, Económico, Social-Cultural, Tecnológico, Ambiental-Ecológico, Legal-Regulatorio) que contiene un óvalo rosado (Micro Entorno). Dentro, bloques 3D azules: Proveedores → Empresa y Competidores → Distribuidores e intermediarios → cilindro 'Mercado/Clientes/Usuarios', unidos por flechas rojas. Recuadro inferior: 'Fuerzas competitivas (Porter)'."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Entornos y las 5 fuerzas de Porter",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres círculos concéntricos en tonos azul/violeta: MACROENTORNO (exterior), MICROENTORNO (medio) y EMPRESA/ORGANIZACIÓN (centro). Una línea amplía el microentorno hacia un esquema de las 5 fuerzas de Porter: Nuevos participantes (amenaza de nuevos participantes), Proveedores (poder de negociación de proveedores), Compradores (poder de negociación de compradores), Sustitutos (amenaza de sustitución) y en el centro Competidores actuales (rivalidad). Cada fuerza lista sus factores (concentración, costos de cambio, integración hacia atrás/adelante, etc.)."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Evolución de las orientaciones de las empresas",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres franjas con flechas a lo largo de una línea temporal (finales del siglo XIX, principios de 1930, mediados de 1950, década de 1990): 1) solo 'Orientación al producto'; 2) 'Orientación al producto' → 'Orientación a las ventas'; 3) producto → ventas → 'Orientación al mercado' (verde). Indica que algunas industrias se quedaron en la primera etapa y otras avanzaron. Fuente: Fundamentos de Marketing – Stanton, 14ª edición."}
+      ]
+    },
+    {
+      "pagina": 23,
+      "tema": "Circuito del crecimiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Ciclo de cuatro etapas unidas por flechas azules en sentido horario: Valor percibido → Satisfacción del cliente → Comportamiento leal → Rentabilidad y crecimiento → (vuelve a) Valor percibido."}
+      ]
+    },
+    {
+      "pagina": 24,
+      "tema": "Rendimiento organizacional",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Esquema en tres niveles de abajo hacia arriba. Base 'Características': cuatro cilindros azules (Foco en el cliente, Conocimiento de la competencia, Observación del entorno, Coordinación de actividades). Nivel medio: 'Ventaja competitiva sostenible' (creación de valor para el consumidor + valor superior a la competencia). Cima: 'Rendimiento organizacional'. Flechas hacia arriba conectan los niveles."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [5, 6, 7, 9, 10, 11, 13, 14, 19, 20, 21, 22]
+}

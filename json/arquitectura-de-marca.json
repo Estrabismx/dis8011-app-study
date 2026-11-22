@@ -1,0 +1,226 @@
+{
+  "archivo_pdf": "pdf/arquitectura-de-marca.pdf",
+  "archivo_md": "markdown/arquitectura-de-marca.md",
+  "titulo": "Arquitectura de marca",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 28,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en todas las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Arquitectura de marca'",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Edificio en construcción con estructura de concreto, andamios y grúas torre. Metáfora de 'construir' la arquitectura de una marca."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Proceso de creación de una marca (branding)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Cartel amarillo tipo globo de diálogo con la palabra 'BRANDING' en letras grises grandes."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Identidad de marca",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Caricatura de un hombre pelirrojo de camisa azul que se mira en un espejo de mano y apunta a su reflejo, que lo mira de vuelta. Representa la diferencia entre identidad (cómo se ve la marca a sí misma) e imagen (cómo la perciben)."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Posicionamiento de productos / marca",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Silueta negra de una cabeza de perfil con el cerebro en blanco que contiene los logos de Coca-Cola, Apple, Windows, Adidas y Nike."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "De la segmentación al posicionamiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cinco flechas de colores con íconos: Segmentos (identificar y seleccionar segmentos atractivos) → Oportunidades de valor (definir necesidades y oportunidades de valor en cada segmento) → Ajuste de capacidades y oportunidades (evaluar y alinear capacidades de la empresa con las oportunidades) → Objetivos (objetivos de marketing y negocio por segmento) → Posicionamiento deseado (propuesta de valor y posicionamiento en la mente del cliente)."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Posicionamiento, identidad e imagen de marca",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Infografía 'De la intención estratégica a la percepción del mercado', cuatro bloques en secuencia: 1) Estrategia de posicionamiento (cómo queremos que la marca sea percibida y diferenciada; resultado buscado: segmento objetivo, atributos y beneficios clave, diferenciación relevante, lugar deseado en la mente del consumidor); 2) Identidad de marca (atributos, valores, conceptos y elementos distintivos que la empresa construye y proyecta; dimensiones Conceptual: propósito, valores, personalidad; Verbal: nombre, tono, lenguaje; Visual: logotipo, isotipo, tipografía, color, sistema gráfico); 3) Interacción con el mercado (comunicación, productos, experiencias y puntos de contacto: publicidad, diseño de productos, experiencia de cliente, canales y entorno físico/digital); 4) Imagen de marca (percepciones, asociaciones y significados que el mercado objetivo construye; puede coincidir o no con la identidad proyectada). Una flecha lateral de 'Retroalimentación y medición' compara el posicionamiento deseado vs la imagen percibida para ajustar la estrategia."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Definición de arquitectura de marca (Kotler & Keller)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Dibujo arquitectónico de un edificio moderno de varios pisos, mitad en boceto de líneas y mitad renderizado. Metáfora de la estructura/arquitectura."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Arquitectura de la pirámide de marca",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Pirámide 3D de cinco niveles numerados de la base a la cima: 01 Atributos del producto (características tangibles: tamaño, color, peso, materiales, diseño, sabor, aroma, cantidad) → 02 Beneficios funcionales (qué resuelve la marca en utilidad, desempeño y conveniencia) → 03 Beneficios emocionales (sentimientos y experiencias que genera) → 04 Beneficio principal (el beneficio intangible más relevante que obtiene el cliente) → 05 Carácter de marca (personalidad y manera de ser de la marca; cómo se expresa y diferencia)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Pirámide de marca – ejemplo Apple",
+      "imagenes": [
+        {
+          "tipo": "diagrama",
+          "descripcion": "Misma pirámide aplicada a Apple, con el logo de la manzana y fotos de MacBook, iPhone, AirPods y Apple Watch.",
+          "datos": {
+            "01 Atributos del producto": "Diseño minimalista, alta calidad de materiales, rendimiento, interfaz intuitiva (iOS/macOS), integración de hardware y software, servicios como iCloud, App Store, FaceTime.",
+            "02 Beneficios funcionales": "Facilita la vida, aumenta la productividad, es intuitivo, confiable y ofrece un ecosistema integrado de dispositivos y servicios.",
+            "03 Beneficios emocionales": "Sensación de pertenencia, orgullo, inspiración, libertad creativa y confianza.",
+            "04 Beneficio principal": "Una mejor forma de vivir, trabajar y crear, con tecnología que se integra naturalmente en la vida de las personas.",
+            "05 Carácter de marca": "Innovadora, simple, premium, creativa y centrada en las personas. Inspira a pensar distinto."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Pirámide de marca – ejemplo Volvo",
+      "imagenes": [
+        {
+          "tipo": "diagrama",
+          "descripcion": "Misma pirámide aplicada a Volvo, con el logo de Volvo y la foto de un SUV gris. Texto: 'Volvo: la seguridad como esencia de marca'.",
+          "datos": {
+            "01 Atributos del producto": "Airbags, sistemas de frenado automático, sensores, asistencia a la conducción, estructura de alta resistencia y tecnologías de seguridad activa y pasiva.",
+            "02 Beneficios funcionales": "Ayuda a prevenir accidentes, protege a los ocupantes y entrega mayor control en la conducción.",
+            "03 Beneficios emocionales": "Tranquilidad, confianza, bienestar y control. Disfrutar el viaje con la familia.",
+            "04 Beneficio principal": "Sentirse seguro y protegido al conducir, especialmente para la familia.",
+            "05 Carácter de marca": "Responsable, confiable, protectora y centrada en las personas."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Modelos / tipos de arquitectura de marca",
+      "imagenes": [
+        {
+          "tipo": "infografia",
+          "descripcion": "Infografía 'Tipos de arquitectura de marca: cómo se estructuran las marcas dentro de una empresa', con cuatro columnas y un ejemplo con logos y productos cada una.",
+          "datos": {
+            "Monolítica (Branded House)": "Una única marca para todas las líneas de productos y negocios. Ejemplo IKEA: muebles, iluminación y decoración usan la misma marca IKEA; los productos tienen nombres propios (BILLY, KALLAX, MALM) pero la marca es la misma.",
+            "Marca endosada (Endorsed Brands)": "Un conjunto de submarcas respaldadas por la marca madre. Ejemplo Nestlé: Nescafé (café), Nesquik (cacao), Maggi (alimentos); cada submarca tiene identidad propia, pero todas están respaldadas por Nestlé, lo que aporta confianza y sinergias.",
+            "Independientes (House of Brands)": "Un conjunto de marcas autónomas e independientes entre sí. Ejemplo Unilever: Dove (cuidado personal), AXE (cuidado masculino), Knorr (alimentos); cada marca opera de forma independiente, con su propia identidad, estrategia de comunicación y posicionamiento.",
+            "Mixta (Hybrid)": "Combina marcas de la empresa con submarcas y marcas independientes. Ejemplo Samsung: usa su marca Samsung en varias líneas (electrónica de consumo), desarrolla submarcas como Galaxy (smartphones) y mantiene marcas adquiridas como Harman Kardon (independiente)."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Ejemplo de estructura: portafolio Nestlé",
+      "imagenes": [
+        {"tipo": "collage_logos", "descripcion": "Portafolio de Nestlé en 10 categorías o líneas, cada una con logos de sus marcas: Nutrición infantil (Nan, Nido, Nidal, Good Care, Gerber, Maternal), Agua (Pure Life, Perrier, San Pellegrino, etc.), Cereales (Nesquik, Corn Flakes, Fitness, Cheerios, Trix, Lucky Charms, Chocapic, Cookie Crisp), Chocolates y confites (Costa, Sahne-Nuss, Kit Kat, Crunch, Trencito, Super 8, Negrita, etc.), Cafés y bebidas (Nescafé, Nesquik, Nespresso, Starbucks, Coffee Mate, Milo, etc.), Culinarios (Maggi, etc.), Health Science (OptiFibre, Boost, Peptamen, etc.), Alimentos para mascotas (Purina: Beneful, Pro Plan, ONE, Cat Chow, Felix, Dog Chow), Lácteos (Svelty, La Lechera, Nestlé, etc.) y Nestlé Profesional."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Ejemplo de estructura: portafolio P&G",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Portafolio de Procter & Gamble: 10 categorías o líneas organizadas en 5 sectores operativos, con fotos de productos: Health Care (Personal Health Care, Oral Care), Beauty (Skin & Personal Care, Hair Care), Grooming, Fabric & Home Care (Fabric Care, Home Care) y Baby, Feminine & Family Care (Baby Care, Feminine Care, Family Care; por ejemplo Bounty)."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Mezcla de productos",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Botellas de bebidas de Coca-Cola Company (Coca-Cola, Coca-Cola light, Coca-Cola Zero, Fanta, Sprite, aguas, jugos) rodeadas por una cinta de medir amarilla. (Misma foto que producto-parte-1-y-2, pág. 27)."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Línea de productos",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Línea Oral-B/Crest Pro-Salud (pastas, cepillos, enjuagues) y portafolio de bebidas Coca-Cola con menú por categorías ('portafolio de productos'). (Mismas fotos que producto-parte-1-y-2, pág. 28)."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Tipo de productos",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Latas de Diet Coke y Coca-Cola Zero; cepillo Oral-B manual (pack 2x1) y cepillo eléctrico Oral-B; marraquetas y hallullas. (Mismas fotos que producto-parte-1-y-2, pág. 29)."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Artículo",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "iPhones de distintos colores, cepillos Oral-B de distintos colores, pegamentos Pritt de tres tamaños y Coca-Cola Zero en botella y lata. (Mismas fotos que producto-parte-1-y-2, pág. 30)."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Estructura de una mezcla de productos",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cuatro cuadros de color: Ancho (número de líneas comercializadas), Extensión (número total de artículos dentro de cada línea), Profundidad (cantidad de versiones de cada producto de cada línea) y Consistencia (qué tan relacionadas están las líneas entre sí)."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Profundidad y amplitud de líneas",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cuadrícula de tres líneas (X, Y, Z) con cinco productos numerados cada una: la horizontal es la 'Profundidad de líneas' y la vertical la 'Amplitud'; una flecha señala un cuadrado como 'Tipo de producto'."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Jerarquía de productos",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Pirámide con seis niveles (de la cima a la base): Artículo (unidad que se puede distinguir dentro de una marca o línea), Tipo de producto (artículos de una misma línea que comparten una o varias formas posibles), Línea de producto (productos de la misma clase relacionados porque desempeñan una función similar), Clase de producto (grupo de productos de una misma familia con cierta coherencia), Familia de producto (todas las clases que pueden satisfacer una necesidad básica de forma razonable) y Familia de necesidades (necesidades fundamentales que subyacen a una familia de productos)."}
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "Amplitud de desarrollo de marca",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Logo de Nestlé ('Good Food, Good Life') sobre una fila de productos de distintas categorías (cafés, galletas, cereales, lácteos, alimentos, chocolates, etc.), con una flecha azul de doble punta debajo: 'Amplitud de la línea de productos'."}
+      ]
+    },
+    {
+      "pagina": 24,
+      "tema": "Estrategia de marca y mezcla de productos",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Matriz 2x2: filas Marca (Existente / Nueva), columnas Categoría (clase) de producto (Existente / Nueva). Marca existente + categoría existente = Extensión de línea; marca existente + categoría nueva = Extensión de marca; marca nueva + categoría existente = Marcas múltiples; marca nueva + categoría nueva = Nuevas marcas."}
+      ]
+    },
+    {
+      "pagina": 25,
+      "tema": "Extensión de línea",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Misma matriz con globo amarillo en 'Extensión de línea': se agregan tipos de productos o artículos adicionales a la misma línea y bajo la misma marca. Ej.: nuevos sabores, formatos de envase, colores, ingredientes, tamaño de envase."}
+      ]
+    },
+    {
+      "pagina": 26,
+      "tema": "Extensión de marca",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Misma matriz con globo en 'Extensión de marca': lanzar un producto en una nueva clase bajo una misma marca. Ejemplo: BIC (lápices, máquinas de afeitar, encendedores). Una marca de prestigio es un activo y ayuda a introducir un nuevo producto, siempre que el posicionamiento sea coherente."}
+      ]
+    },
+    {
+      "pagina": 27,
+      "tema": "Marcas múltiples",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Misma matriz con globo en 'Marcas múltiples': marcas adicionales en la misma clase, generadas a veces por identificar segmentos diferentes que requieren estrategias diferenciadas. Ejemplos: P&G: Ace – Ariel; Honda: Acura; Toyota: Lexus."}
+      ]
+    },
+    {
+      "pagina": 28,
+      "tema": "Nuevas marcas",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Misma matriz con globo en 'Nuevas marcas': cuando una empresa define que ninguna de sus marcas es adecuada para una nueva clase de productos. Ejemplo: si BIC decidiera hacer cepillos de dientes, probablemente no los llamaría igual."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [2, 23]
+}

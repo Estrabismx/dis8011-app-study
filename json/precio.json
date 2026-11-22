@@ -1,0 +1,137 @@
+{
+  "archivo_pdf": "pdf/precio.pdf",
+  "archivo_md": "markdown/precio.md",
+  "titulo": "Estrategia Comercial – Precio",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 21,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en todas las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Estrategia Comercial'",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de Venn de las 4P (Producto, Precio, Placement, Promoción) con 'Marketing Mix' al centro."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Marketing como herramienta",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Grabado a color: un hombre con sombrero usa una palanca rotulada 'MARKETING' para mover un gran bloque rotulado 'DEMANDA'. Título 'HERRAMIENTA'. (Versión a color de la imagen de definicion-de-marketing, pág. 16)."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Portada de sección 'Precio'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Etiqueta de precio de cartón colgando de un cordel, con '???' en rojo y el símbolo del euro. Representa la pregunta de cuánto cobrar."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Las personas solo saben del valor",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Vaso de agua sobre tierra seca y agrietada por la sequía. Ilustra que el valor de algo depende de la situación del cliente (en el desierto un vaso de agua vale mucho), no de su costo."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Definición de precio",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Monedas chilenas (1, 5, 10, 50, 100 y 500 pesos) y billetes chilenos antiguos de 1.000, 2.000, 5.000, 10.000 y 20.000 pesos del Banco Central de Chile. Representa las unidades monetarias en que se expresa el precio."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "El precio como señal de calidad",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Esfera azul brillante con un gran check (✓) y el texto '100% Calidad'. Representa que el precio comunica (no siempre de forma real) la calidad del producto."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "El precio determina la demanda",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Curva de demanda azul descendente y convexa en un gráfico Precio (vertical) vs Cantidad (horizontal): a mayor precio, menor cantidad demandada."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Influencia en ingresos y utilidad",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Figura humana azul subiendo por una gran flecha roja en zigzag ascendente (crecimiento de ingresos/utilidades)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "¡Atención! El precio no basta para explicar el éxito",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Grabado en blanco y negro de un hombre gritando por un megáfono antiguo, con el texto grande '¡Atención! ¡atención!'."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Elasticidad de la demanda",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Dos manos estirando un manojo de elásticos de colores (rojo, verde, azul, amarillo). Metáfora de la elasticidad."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Demanda elástica",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Curva de demanda D poco inclinada. Al bajar el precio de P1 a P2, la cantidad sube de Q1 a Q2. El rectángulo de ingreso Y1 = P1 × Q1 (rojo) es menor que Y2 = P2 × Q2 (azul): Y1 < Y2. Conclusión: si bajar el precio aumenta los ingresos totales (o viceversa), la demanda es elástica."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Demanda inelástica",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Curva de demanda D muy inclinada. Al bajar el precio de P1 a P2, la cantidad apenas sube de Q1 a Q2. El ingreso Y1 = P1 × Q1 (mayor) supera a Y2 = P2 × Q2 (menor): Y1 > Y2. Conclusión: si bajar el precio disminuye los ingresos totales (o viceversa), la demanda es inelástica."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Tipos de elasticidad",
+      "imagenes": [
+        {
+          "tipo": "grafico",
+          "descripcion": "Cinco gráficos pequeños Precio vs Cantidad con su curva D.",
+          "datos": {
+            "Demanda perfectamente inelástica": "Elasticidad = 0. Curva vertical: la cantidad no cambia aunque cambie el precio.",
+            "Demanda inelástica": "Elasticidad < 1. Curva muy inclinada: grandes cambios de precio, pequeños cambios de cantidad.",
+            "Demanda de elasticidad unitaria": "Elasticidad = 1. El cambio porcentual de cantidad es igual al de precio.",
+            "Demanda elástica": "Elasticidad > 1. Curva poco inclinada: pequeños cambios de precio, grandes cambios de cantidad.",
+            "Demanda perfectamente elástica": "Elasticidad = ∞. Curva horizontal en P1: a ese precio se vende cualquier cantidad."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Descuentos y bonificaciones",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Gran símbolo de porcentaje '%' rojo en 3D cuya parte inferior es una flecha que se clava en el suelo y lo agrieta. Representa la rebaja de precios."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Pagos por flete (precios basados en la geografía)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Globo terráqueo con continentes (Europa, África) en relieve. Representa la distancia geográfica como factor del precio."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Competencia no basada en el precio",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Dos curvas de demanda paralelas: 'Demanda' (azul) y 'Demanda′' (roja) desplazada a la derecha (flecha negra). Con el mismo precio P0, el punto A está en la curva original y el punto B en la desplazada, con mayor cantidad (en el gráfico, A corresponde a Q1 y B a Q0). Muestra que la diferenciación o la publicidad desplazan la curva sin cambiar el precio."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [2, 16, 17, 18, 19]
+}

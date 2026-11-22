@@ -1,0 +1,118 @@
+{
+  "archivo_pdf": "pdf/definicion-de-marketing.pdf",
+  "archivo_md": "markdown/definicion-de-marketing.md",
+  "nombre_original": "Lo segundo.pdf",
+  "titulo": "2do. paso",
+  "fecha": "19-20 agosto 2026",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 22,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en todas las diapositivas: código de barras sobre un papel enrollado con el nombre 'René Rodríguez A.' en la esquina inferior izquierda. Es solo marca del autor, sin contenido de estudio."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada '2do. paso'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Render 3D de una escalera de caracol con peldaños de madera y baranda metálica blanca. Metáfora del 'segundo paso' o avance en el curso."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Circuito del crecimiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Ciclo de cuatro etapas con flechas azules en sentido horario: Valor percibido → Satisfacción del cliente → Comportamiento leal → Rentabilidad y crecimiento → Valor percibido. (Mismo diagrama que en conocimiento-e-informacion, pág. 23)."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Rendimiento organizacional",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Esquema de tres niveles: base con cuatro cilindros 'Características' (Foco en el cliente, Conocimiento de la competencia, Observación del entorno, Coordinación de actividades) → 'Ventaja competitiva sostenible' (creación de valor para el consumidor + valor superior a la competencia) → 'Rendimiento organizacional'. (Mismo diagrama que en conocimiento-e-informacion, pág. 24)."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Concepto de marketing (orientación al marketing)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Recuadro morado 'Concepto de marketing' que suma: Orientación al cliente + Objetivos de desempeño de la organización + Actividades coordinadas de marketing. Flechas moradas llevan a 'Satisfacción del cliente' y luego a 'Éxito de la organización'. Fuente: Fundamentos de Marketing – Stanton, 14ª edición."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Táctica y estrategia (poema)",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Retrato en blanco y negro del escritor uruguayo Mario Benedetti, hombre mayor con bigote canoso, apoyando la cabeza en su mano. Acompaña su poema 'Táctica y estrategia', usado para ilustrar la diferencia entre ambos conceptos."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Competencia → Marketing → Estrategia",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de flujo azul: nube 'COMPETENCIA' → rombo de decisión. Si 'No' hay competencia → 'NO MARKETING'. Si 'Sí' → cilindro 'MARKETING' → 'ESTRATEGIA'. Idea: el marketing y la estrategia existen porque hay competencia."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Variables controlables y no controlables",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Esquema horizontal. Izquierda (variables controlables): 'Marketing de la organización' con Fortalezas y Debilidades, y el 'Marketing Mix' (Producto, Promoción, Distribución, Precio). Centro (variables no controlables): 'Entorno' con columnas Marco legal, Tecnología, Sistema político, Exterior, Economía, Sistema social, Clima, otros; una flecha 'Actividades coordinadas' lo atraviesa. Derecha: 'Mercado' con Segmento 1 (amarillo) y Segmento 2 (celeste), y 'Competencia'. Flechas curvas superior 'Oportunidades' e inferior 'Amenazas' vuelven hacia la organización."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Marketing como herramienta",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Grabado antiguo en blanco y negro: un hombre usa una palanca rotulada 'MARKETING' para mover un enorme bloque de piedra rotulado 'DEMANDA'. Título 'HERRAMIENTA'. Metáfora: el marketing es la palanca que mueve la demanda."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Marketing mix aplicado a un plato de comida",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Plato hondo blanco con lo que parece ser una cazuela (caldo con un trozo de carne, choclo, papa, zapallo y verduras). Alrededor hay cuatro recuadros azules unidos con líneas a la foto: Producto, Promoción, Distribución (POS) y Precio. Ejemplo de que un mismo producto involucra las 4P."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "El flautista (sin texto)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ilustración a color del flautista de Hamelín: hombre con traje y gorro rojos tocando una flauta, de la que salen notas en un pentagrama con clave de sol; abajo lo sigue una multitud de niños. Metáfora del marketing que atrae y 'provoca' al público a seguirlo."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Las dos caras del proceso de marketing",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Persona mirando con binoculares cuyas lentes reflejan datos verdes (fondo azul de números). Representa el análisis/observación del mercado."},
+        {"tipo": "ilustracion", "descripcion": "Silueta de una mujer de traje corriendo, seguida por siluetas azules de hombres corriendo. Representa la acción/competencia."},
+        {"tipo": "tabla", "descripcion": "Cuadro de dos columnas. Marketing estratégico (proceso orientado al análisis): Análisis de necesidades → Segmentación del mercado → Análisis de atractividad → Análisis de la competitividad → Elección de posicionamiento/estrategia. Marketing operativo (orientado a la acción): Producto → Distribución → Precio → Comunicación → Programa de marketing. Globos amarillos vinculan cada paso con herramientas: SIM y PESTAL, Segmentación y pronóstico de ventas, Matriz GE, Fuerzas de Porter / ventaja competitiva, Posicionamiento–diferenciación. Fuente: Dirección de Marketing – Lambin, 2ª edición."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Planeación estratégica de marketing",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres flechas azules: Planeación (selección de segmento, fijar metas, selección de estrategias y tácticas — destacado en amarillo) → Implementación (selección de personal, recursos, organización, operación) → Evaluación (comparar resultados vs metas). Flechas curvas de 'Retroalimentación' vuelven atrás: ajustar metas, cambiar estrategias o tácticas, corregir implementación."},
+        {"tipo": "fotografia", "descripcion": "Poste de señales contra cielo azul con nubes, con flechas que dicen WHO, WHAT, WHERE, WHEN, WHY, HOW y abajo 'QUESTIONS' / 'ANSWERS'. Alude a las preguntas clave de la planificación."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Las 7 P del marketing (¿Qué opinan de esto?)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Círculos de colores superpuestos alrededor de 'Público objetivo': Producto, Place (lugar), Precio, Promoción, Gente (people), Prueba física, Proceso. Título 'Las 7 P del Marketing'."}
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "Las 7 P del marketing (anotado)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Mismo diagrama de las 7 P, pero con círculos rojos marcando Proceso, Prueba física y Gente (las 3 P agregadas para servicios), y una línea roja que conecta Proceso con Producto, sugiriendo que esas P se pueden incluir dentro de Producto."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [2, 3, 7, 8, 9, 10, 11, 12]
+}

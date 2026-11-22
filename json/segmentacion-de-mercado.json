@@ -1,0 +1,290 @@
+{
+  "archivo_pdf": "pdf/segmentacion-de-mercado.pdf",
+  "archivo_md": "markdown/segmentacion-de-mercado.md",
+  "nombre_original": "Segmentación de Mercado.pdf",
+  "titulo": "Segmentación de Mercados",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 22,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "nota": "Las tablas de las páginas 16, 18, 21 y 22 son imágenes: su texto NO aparece en el .md, por eso se transcriben aquí completas.",
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Segmentación de Mercados'",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Torta de chocolate con cobertura derretida, decorada con rosetas de crema y virutas de chocolate, con una porción cortada que deja ver sus capas. Metáfora del mercado dividido en partes (segmentos)."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Variables controlables y no controlables",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Esquema: Marketing de la organización (Fortalezas/Debilidades) y Marketing Mix (Producto, Promoción, Distribución, Precio) como variables controlables; Entorno (Marco legal, Tecnología, Sistema político, Exterior, Economía, Sistema social, Clima, otros) como variables no controlables, atravesado por la flecha 'Actividades coordinadas' hacia el Mercado (Segmento 1 amarillo y Segmento 2 celeste) y la Competencia. Flechas curvas de Oportunidades (arriba) y Amenazas (abajo). Mismo diagrama que en definicion-de-marketing, pág. 15."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Mercado y segmento",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Fondo difuminado: lupa sobre un grupo de figuras humanas grises 3D ubicadas en una diana roja, rodeada de otros grupos de personas. Representa identificar un grupo dentro del mercado."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Cliente",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Muchas esferas celestes con caras tristes o serias y, entre ellas, una sola esfera amarilla sonriente. Representa al cliente que deja de ser anónimo y se destaca de la masa."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Segmento de mercado",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Gráfico circular azul (torta) con una porción retirada, sobre la que hay varias siluetas de cabezas humanas negras con una mira/diana. Representa un segmento de personas seleccionado del mercado total."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "¿Cómo elegir un mercado?",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Fondo tenue: figura humana blanca 3D con la mano en la frente mirando a lo lejos, de pie sobre caminos/flechas naranjas que se bifurcan. Representa la decisión de qué camino (mercado) elegir."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "¿Por qué segmentar el mercado?",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Grupos de figuras humanas grises 3D dispersos; uno de ellos está sobre una diana roja (segmento objetivo)."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Marketing masivo",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Una sola curva de demanda (azul, descendente) cruzada por una curva de oferta (roja, ascendente): representa una única curva de demanda para todo el mercado."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Marketing segmentado",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Varios pares pequeños de curvas (azul y roja) que se cruzan, uno por segmento: cada curva representa un segmento que requiere un mix diferente."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "En resumen: masivo → segmentado → personalizado",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Multitud grande de personas diversas (marketing masivo)."},
+        {"tipo": "ilustracion", "descripcion": "Gráfico de torta 3D de colores con figuras de personas en cada porción (marketing segmentado)."},
+        {"tipo": "fotografia", "descripcion": "Cuadrícula de seis retratos individuales de personas distintas (edad, género, origen) sobre fondos de colores (marketing personalizado)."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "El marketing segmentado requiere",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Señal triangular de 'trabajos en curso' (persona con pala) en rojo tenue como fondo."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Beneficios de la segmentación",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ícono tenue de una mano sosteniendo flechas que apuntan hacia arriba (crecimiento), como fondo."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Estrategia masiva, uni-segmento y multi-segmento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres esquemas con flechas amarillas: Estrategia masiva (una estrategia única de marketing → mercado total); Estrategia uni-segmento (estrategia única → solo uno de los segmentos A, B, C); Estrategia multi-segmento (Estrategia A → Segmento A, Estrategia B → Segmento B, Estrategia C → Segmento C)."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Bases para la segmentación: B2C y B2B",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ilustración de una familia de tres personas (mercado de consumo final, B2C)."},
+        {"tipo": "ilustracion", "descripcion": "Dibujo de una fábrica con chimeneas humeantes (mercado de negocios, B2B)."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Bases de segmentación de mercados de consumo",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla con íconos por base de segmentación, variables y ejemplos típicos.",
+          "datos": {
+            "Geográfica (dónde viven los consumidores)": {
+              "Región / zona geográfica": "Norte, centro, sur; regiones del país",
+              "Ciudad / tamaño de ciudad": "Santiago, ciudades intermedias, localidades pequeñas",
+              "Tipo de zona": "Urbana, rural",
+              "Clima / entorno": "Cálido, frío, costero, cordillerano"
+            },
+            "Demográfica (quiénes son los consumidores)": {
+              "Edad": "Niños, jóvenes, adultos, adultos mayores; rangos de edad",
+              "Género": "Según categorías pertinentes al mercado estudiado",
+              "Etapa del ciclo de vida": "Soltero, pareja, familia con hijos, nido vacío, etc.",
+              "Ingreso": "Rangos o tramos de ingreso",
+              "Educación": "Básica, media, técnica, universitaria, posgrado",
+              "Ocupación": "Estudiante, dependiente, independiente, empresario, profesional"
+            },
+            "Psicográfica (cómo son y qué valoran)": {
+              "Clase social / NSE": "Grupos socioeconómicos (alto, medio, bajo)",
+              "Personalidad": "Sociable, innovador, conservador, aventurero, etc.",
+              "Estilo de vida": "Saludable, tecnológico, sustentable, deportivo, viajero, etc.",
+              "Valores e intereses": "Sustentabilidad, familia, innovación, bienestar, estatus, etc."
+            },
+            "Conductual (cómo se relacionan con el producto)": {
+              "Beneficios buscados": "Economía, calidad, conveniencia, rapidez, estatus, servicio",
+              "Frecuencia de uso": "Ocasional, regular, frecuente, intensivo",
+              "Estado del usuario": "No usuario, potencial, nuevo, actual, exusuario",
+              "Lealtad": "Baja, media, alta",
+              "Actitud hacia el producto": "Negativa, indiferente, positiva, entusiasta"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Segmentación por generaciones",
+      "imagenes": [
+        {
+          "tipo": "infografia",
+          "descripcion": "Ilustración de cuatro personajes con objetos de su época (radio/TV, walkman, celular, audífonos), agrupados en Analógicos, Inmigrantes digitales y Nativos digitales.",
+          "datos": {
+            "Baby Boomers": "1946-1964, hijos de la 2ª Guerra Mundial (analógicos)",
+            "Generación X": "1965-1979, juventud de los 80 (inmigrantes digitales)",
+            "Generación Y": "1980-2000, Millennials (nativos digitales)",
+            "Generación Z": "2001-2010, generación internet (nativos digitales)"
+          }
+        },
+        {
+          "tipo": "fotografia",
+          "descripcion": "Foto familiar de varias generaciones (abuelos, adultos, joven, niña y bebé) con rótulos de cada generación, publicada por 'Universo Sorprendente'. Ojo: usa rangos de años distintos a la otra imagen.",
+          "datos": {
+            "Generación Silenciosa": "1928-1945",
+            "Baby Boomers": "1946-1964",
+            "Generación X": "1965-1979",
+            "Generación Y / Millennials": "1980-1994",
+            "Generación Z": "1995-2009",
+            "Generación Alfa": "2010-2024",
+            "Generación Beta": "2025-2039"
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Datos demográficos: Censo 2024 Chile (INE)",
+      "imagenes": [
+        {
+          "tipo": "captura_pantalla",
+          "descripcion": "Captura del dashboard de resultados del Censo 2024 del INE de Chile, nivel país (enlace 'Resultados Dashboard – Censo 2024'). Ejemplo de fuente de datos para segmentar.",
+          "datos": {
+            "poblacion_censada": "18.480.432",
+            "hombres": "8.967.033 (48,5%)",
+            "mujeres": "9.513.399 (51,5%)",
+            "razon_hombre_mujer": "94,3 hombres por cada 100 mujeres",
+            "promedio_edad": "38,1 años",
+            "indice_envejecimiento": "79,0",
+            "tramos_edad": {"0 a 14 años": "3.274.648 (17,7%)", "15 a 64 años": "12.618.546 (68,3%)", "65 años o más": "2.587.238 (14,0%)"},
+            "viviendas_censadas": "7.642.716",
+            "viviendas_ocupadas": "6.730.463",
+            "viviendas_desocupadas": "907.933",
+            "viviendas_colectivas": "4.320",
+            "hogares_censados": "6.596.527",
+            "promedio_personas_por_hogar": "2,8",
+            "promedio_hogares_por_vivienda": "1,0",
+            "hogares_unipersonales": "21,8%",
+            "hogares_con_ninos": "33,2%",
+            "hogares_de_personas_mayores": "11,6%",
+            "piramide_poblacional_hombres_mujeres": {
+              "85 o más": "93.270 / 182.316", "80-84": "129.155 / 188.269", "75-79": "208.574 / 268.612", "70-74": "292.622 / 353.619",
+              "65-69": "403.425 / 467.376", "60-64": "501.042 / 576.748", "55-59": "530.699 / 602.540", "50-54": "556.491 / 616.861",
+              "45-49": "549.508 / 602.268", "40-44": "615.866 / 654.627", "35-39": "692.292 / 715.906", "30-34": "758.913 / 768.576",
+              "25-29": "693.829 / 689.840", "20-24": "646.831 / 626.362", "15-19": "625.986 / 593.361", "10-14": "641.284 / 615.156",
+              "05-09": "584.218 / 563.297", "0-04": "443.028 / 427.665"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Segmentación geográfica (sin texto)",
+      "imagenes": [
+        {"tipo": "mapa", "descripcion": "Mapa vial de Santiago de Chile (comunas como Quilicura, Huechuraba, Renca, Pudahuel, Maipú, Santiago, Ñuñoa, Las Condes, Lo Barnechea, La Florida, Puente Alto, etc.) con un marcador rojo 'A' cerca de la Rotonda Pérez Zujovic. Un recuadro muestra un mapa ampliado de calles de una zona específica. Ilustra la segmentación por ubicación geográfica."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Negocios de barrio / formatos comerciales (sin texto)",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Collage de fachadas de negocios: un strip center moderno, un supermercado Express (de Lider), una farmacia verde ('Farmacia – fitoterapia, dermofarmacia'), una lavandería con lavadoras amarillas, una tienda de conveniencia OXXO y un 'Lubricentro'. Ejemplos de negocios que atienden segmentos geográficos/de cercanía."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Bases de segmentación de mercados de negocios (B2B)",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla con íconos: base de segmentación, variable y pregunta clave. Cierre: 'Una correcta segmentación B2B permite enfocar los esfuerzos comerciales en los clientes con mayor potencial y afinidad'.",
+          "datos": {
+            "Demográficas (características básicas de la empresa)": {
+              "Tipo de industria o sector": "¿A qué industria pertenecen (manufactura, retail, salud, etc.)?",
+              "Tamaño de la empresa": "¿De qué tamaño son (número de empleados, ventas, activos)?",
+              "Ubicación geográfica": "¿En qué zonas geográficas operan o hacia qué regiones nos dirigimos?"
+            },
+            "Variables de operaciones (cómo operan y usan el producto/servicio)": {
+              "Tecnología": "¿Hacia qué tecnologías del cliente nos dirigimos?",
+              "Grado de usuario / no usuario": "¿Nos dirigimos a empresas que usan mucho, regularmente o poco nuestro producto/servicio, o a las que no lo usan?",
+              "Capacidad del cliente": "¿Nos dirigimos a clientes que requieren muchos servicios o a los que necesitan pocos?"
+            },
+            "Procedimientos de compra (cómo y por qué compran)": {
+              "Organización de la función de compras": "¿Nos dirigimos a empresas con organizaciones de compras centralizadas o descentralizadas?",
+              "Estructura de poder": "¿Nos dirigimos a empresas dominadas por la ingeniería, las finanzas o la mercadotecnia?",
+              "Carácter de la relación existente": "¿Nos dirigimos a empresas con las que ya tenemos una relación sólida o a nuevas empresas?",
+              "Políticas generales de compra": "¿Prefieren el arrendamiento, los contratos de servicios, sistemas de compras o las ofertas selladas?",
+              "Criterios para comprar": "¿Buscan principalmente calidad, servicio, precio u otros atributos?"
+            },
+            "Factores de la situación (contexto en que se realiza la compra)": {
+              "Urgencia": "¿Necesitan entregas rápidas o servicios con tiempos de respuesta cortos?",
+              "Aplicación específica": "¿Nos dirigimos a ciertas aplicaciones de nuestro producto/servicio o a todas?",
+              "Tamaño del pedido": "¿Se trata de pedidos grandes o pequeños?"
+            },
+            "Características personales (de quienes participan en la decisión)": {
+              "Similitud entre comprador y vendedor": "¿Nos dirigimos a empresas cuyo personal y valores se parecen a los nuestros?",
+              "Actitudes ante el riesgo": "¿Nos dirigimos a clientes más propensos a asumir riesgos o a los que los evitan?",
+              "Lealtad": "¿Nos dirigimos a empresas que son muy leales con sus proveedores?"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "Clasificación del tamaño de empresa (Chile)",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla verde con criterios por tamaño de empresa. Fuentes: SII y SOFOFA.",
+          "datos": {
+            "Microempresa": {"numero_trabajadores": "1 a 9", "ventas_anuales_UF": "0 a 2.400"},
+            "Pequeña empresa": {"numero_trabajadores": "10 a 49", "ventas_anuales_UF": "2.401 a 25.000"},
+            "Mediana empresa": {"numero_trabajadores": "50 a 199", "ventas_anuales_UF": "25.001 a 100.000"}
+          }
+        }
+      ]
+    }
+  ],
+  "paginas_solo_texto": [14]
+}

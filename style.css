@@ -4,6 +4,7 @@
   --tag:#FFD23F; --tag-ink:#2A2100; --accent:#1F4FD8; --accent-ink:#FFFFFF;
   --good:#18864D; --good-bg:#DDF3E6; --bad:#C8372F; --bad-bg:#FBE3E1;
   --t-marca:#3456E0; --t-ciclo:#D9681A; --t-perfil:#8C3BC4; --t-precio:#B48700; --t-viaje:#0B8D99;
+  --t-principio:#4F7A1C; --t-marketing:#8E2C48; --t-segmentacion:#11825A; --t-posicionamiento:#5A48D0; --t-producto:#8A5432; --t-branding:#C62F2B; --t-distribucion:#2C6C9C; --t-promocion:#C2348A;
   --shadow:0 1px 0 rgba(21,34,58,.06),0 6px 18px -8px rgba(21,34,58,.25);
   --f-display:"Bricolage Grotesque","Trebuchet MS",system-ui,sans-serif;
   --f-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -14,12 +15,14 @@
   --tag:#FFD23F; --tag-ink:#2A2100; --accent:#7C9BFF; --accent-ink:#0E1420;
   --good:#4CD38A; --good-bg:#15372A; --bad:#FF7B72; --bad-bg:#3F1D1D;
   --t-marca:#7C93FF; --t-ciclo:#FF9A4D; --t-perfil:#C185F2; --t-precio:#F0C433; --t-viaje:#3CC9D4;
+  --t-principio:#A3CF5E; --t-marketing:#F0849E; --t-segmentacion:#4FD39C; --t-posicionamiento:#A89CFF; --t-producto:#DFA77F; --t-branding:#FF7B70; --t-distribucion:#74B6EA; --t-promocion:#F383C6;
   --shadow:0 1px 0 rgba(0,0,0,.3),0 8px 22px -10px rgba(0,0,0,.7); color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0E1420; --surface:#171F2F; --surface-2:#1D2738; --ink:#E9EEF6; --muted:#A1ACBE; --line:#2C374B;
   --tag:#FFD23F; --tag-ink:#2A2100; --accent:#7C9BFF; --accent-ink:#0E1420;
   --good:#4CD38A; --good-bg:#15372A; --bad:#FF7B72; --bad-bg:#3F1D1D;
   --t-marca:#7C93FF; --t-ciclo:#FF9A4D; --t-perfil:#C185F2; --t-precio:#F0C433; --t-viaje:#3CC9D4;
+  --t-principio:#A3CF5E; --t-marketing:#F0849E; --t-segmentacion:#4FD39C; --t-posicionamiento:#A89CFF; --t-producto:#DFA77F; --t-branding:#FF7B70; --t-distribucion:#74B6EA; --t-promocion:#F383C6;
   --shadow:0 1px 0 rgba(0,0,0,.3),0 8px 22px -10px rgba(0,0,0,.7); color-scheme:dark}
 
 /* Base y barra superior */
@@ -138,6 +141,14 @@ h1,h2,h3{font-family:var(--f-display);line-height:1.1;text-wrap:balance;margin:0
 .mx .q{border-radius:10px;padding:10px 12px;border:1.5px solid var(--line);background:var(--surface-2)}
 .mx .q b{display:block;font-family:var(--f-display);color:var(--c)}
 .mx .q span{color:var(--muted);font-size:.85rem}
+/* Diapositivas del profesor dentro de los apuntes (clic para verla en grande) */
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:12px;margin:.6em 0}
+.fig{margin:.6em 0}
+.figs .fig{margin:0}
+.fig a{display:block;border-radius:10px;overflow:hidden;border:1px solid var(--line);background:#fff}
+.fig a:hover,.fig a:focus-visible{border-color:var(--c)}
+.fig img{display:block;width:100%;height:auto}
+.fig figcaption{font-size:.82rem;color:var(--muted);margin-top:5px;line-height:1.4}
 .tbl{overflow-x:auto}
 .tbl table{border-collapse:collapse;width:100%;min-width:560px;font-size:.9rem}
 .tbl th,.tbl td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}

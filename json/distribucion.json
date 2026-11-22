@@ -1,0 +1,173 @@
+{
+  "archivo_pdf": "pdf/distribucion.pdf",
+  "archivo_md": "markdown/distribucion.md",
+  "nombre_original": "distribución.pdf (idéntico a 'PLAZA - DISTRIBUCION.pdf', que se eliminó por duplicado)",
+  "titulo": "Estrategia Comercial – Plaza / Distribución",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 19,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Estrategia Comercial'",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de Venn de las 4P (Producto, Precio, Placement, Promoción) con 'Marketing Mix' al centro."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Portada de sección 'Plaza – Distribución'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Acuarela de varias bolsas de compras de colores (rojo, verde, azul, naranja, rosado) agrupadas. Simboliza el acto de compra en el punto de venta."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Repaso: el rol de la distribución",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama Industria ↔ Mercado con flechas de Comunicación, Dinero, Bienes y servicios (flecha roja destacada) e Información. Aquí se destaca el flujo de bienes y servicios, que es lo que gestiona la distribución."},
+        {"tipo": "ilustracion", "descripcion": "Red de esferas metálicas plateadas conectadas por varillas, con una esfera roja destacada. Representa una red de distribución con nodos."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Canal de distribución (ejemplo)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cadena de flechas azules: Aserradero → Corredor/Dealer → Fabricante de muebles → Mueblería (minorista) → Consumidor. Llaves superiores marcan 'Canal 1' (aserradero hasta fabricante de muebles, mercado de negocios) y 'Canal 2' (fabricante hasta consumidor). Muestra que una cadena productiva puede contener varios canales."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Intermediarios",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Ciclo de cinco cajas con íconos unidas por flechas: Empresa (productor) → Agente (intermediario) → Mayorista (distribuidor) → Minorista (punto de venta) → Consumidor (cliente final) → de vuelta a Empresa."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Se pueden eliminar los intermediarios, pero no sus funciones",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Fila tenue de siluetas de personas en gris haciendo una cola (representa la cadena de intermediarios o a los consumidores esperando)."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Reclamo de cliente por falla en la distribución (sin texto del profesor)",
+      "imagenes": [
+        {"tipo": "captura_pantalla", "descripcion": "Captura de una publicación de LinkedIn de una jefa de marketing de una empresa, quejándose de una compra en Paris.cl durante el Cyber Friday: una licuadora Oster llegó 3 semanas después y sin una pieza; la devolvió y aún no le reembolsan. Compara con Falabella, con la que nunca tuvo problemas, y termina con 'Nunca más Paris.cl!'. Incluye el enlace a Paris.cl. Ejemplo de cómo una mala logística/distribución daña la marca."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Funciones de los intermediarios del canal",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Infografía de dos columnas con íconos.",
+          "datos": {
+            "Para el productor – Especialista en ventas": ["Entrega información de mercado", "Interpreta las necesidades de los consumidores", "Promociona los productos", "Almacena los productos", "Negocia con los consumidores", "Ofrece financiamiento", "Adquiere los productos", "Comparte los riesgos"],
+            "Para el comprador – Agente de compras": ["Anticipa las necesidades de compra", "Subdivide grandes cantidades del producto", "Almacena productos", "Transporta productos", "Crea surtido y variedad", "Proporciona financiamiento", "Asegura la disponibilidad de los productos", "Garantiza los productos", "Comparte los riesgos"]
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Tipo de canal: directa e indirecta",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Figura humana blanca 3D empujando un carro de carga con cajas apiladas (logística/despacho)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Canales para bienes de consumo",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Barra superior 'Productores de bienes de consumo' y barra inferior 'Consumidores finales', unidas por cinco canales con flechas naranjas: 1) directo productor → consumidor (encerrado en un óvalo rojo); 2) productor → detallistas → consumidor; 3) productor → mayoristas comerciantes → detallistas → consumidor; 4) productor → agentes → detallistas → consumidor; 5) productor → agentes → mayoristas comerciantes → detallistas → consumidor."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Distribución exclusiva y franquicias",
+      "imagenes": [
+        {"tipo": "logos", "descripcion": "Recuadro azul con logos de franquicias conocidas: Subway, KFC, McDonald's, Dunkin' Donuts y Domino's Pizza."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Estrategias de distribución",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Flecha horizontal 'Mayor cobertura' ↔ 'Mayor control' sobre tres tarjetas: Intensiva (roja; amplia cobertura, producto disponible en la mayoría de los puntos de venta posibles), Selectiva (verde; cobertura acotada en algunos puntos de venta seleccionados) y Exclusiva (azul; cobertura restringida, un solo distribuidor mayorista o minorista en una zona o mercado)."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Comparación de estrategias de distribución",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla comparativa Exclusiva / Selectiva / Intensiva.",
+          "datos": [
+            {"variable": "Vendedores (número de intermediarios)", "exclusiva": "1", "selectiva": "Pocos", "intensiva": "Muchos"},
+            {"variable": "Tipo de canal (número de niveles)", "exclusiva": "Corto", "selectiva": "Medio", "intensiva": "Largo"},
+            {"variable": "Diferenciación (posicionamiento en el canal)", "exclusiva": "Alta", "selectiva": "Media", "intensiva": "Baja"},
+            {"variable": "Precio (orientación general)", "exclusiva": "Alto", "selectiva": "Medio", "intensiva": "Bajo"},
+            {"variable": "Frecuencia de compra (en el punto de venta)", "exclusiva": "Muy baja", "selectiva": "Media", "intensiva": "Alta"},
+            {"variable": "Exigencias de contrato (condiciones al intermediario)", "exclusiva": "Altas", "selectiva": "Altas", "intensiva": "Bajas"},
+            {"variable": "Grado de exclusividad de la marca en el canal", "exclusiva": "Exclusiva (una marca)", "selectiva": "Preferente (pocas marcas)", "intensiva": "No exclusiva (muchas marcas)"}
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Estrategias push y pull",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Cubos blancos con letras que forman las palabras 'PUSH' y 'PULL'."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Estrategias de comunicación en el canal de distribución",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Dos esquemas. Estrategia de presión (Push): Productor → (acciones de marketing del productor: venta personal, promoción comercial) → Minoristas y mayoristas → (acciones del intermediario: venta personal, publicidad, promoción) → Consumidores. Estrategia de aspiración (Pull): el productor dirige acciones de marketing (publicidad al consumidor, promoción de ventas) directamente a los Consumidores; la Demanda fluye en sentido inverso: Consumidores → Minoristas y mayoristas → Productor."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Nuevos canales: delivery y comercio electrónico (sin texto)",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Repartidor en moto con casco y una caja de despacho roja de Cornershop ('Hacemos el súper por ti')."},
+        {"tipo": "ilustracion", "descripcion": "Ilustración 3D de un smartphone con una tienda online, una mano tocando la pantalla, un carro de compras, cajas y bolsas (e-commerce)."},
+        {"tipo": "ilustracion", "descripcion": "Fachada de una tienda física clásica cuya vitrina se transforma en una pantalla digital con productos (integración tienda física + digital / omnicanalidad)."},
+        {"tipo": "fotografia", "descripcion": "Dron transportando una caja de cartón con la palabra 'DELIVERY' sobre un estacionamiento (despacho por dron)."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Malls y locatarios: tres tensiones en los canales de distribución en Chile",
+      "imagenes": [
+        {
+          "tipo": "infografia",
+          "descripcion": "Tres tarjetas azules con datos de prensa. Conclusión: 'Los canales de distribución están experimentando una reconfiguración, impulsada por el comercio electrónico, la integración de espacios físicos y digitales y los cambios en los hábitos de compra de los consumidores'. Fuentes: The Clinic (2026), Diario Financiero (2025), La Tercera (2026).",
+          "datos": [
+            {"n": 1, "tension": "Rentabilidad", "fuente": "The Clinic, sep 2026", "dato": "Ventas de locatarios −1,3%; ingresos por arriendo +5,5%", "mensaje": "Los costos del canal pueden crecer incluso cuando las ventas retroceden."},
+            {"n": 2, "tension": "Omnicanalidad", "fuente": "Diario Financiero, may 2025", "dato": "Mall + Logística", "mensaje": "Los centros comerciales incorporan funciones de despacho y apoyo al e-commerce."},
+            {"n": 3, "tension": "Contratos", "fuente": "La Tercera, feb 2026", "dato": "Tienda ↔ Online", "mensaje": "La venta digital genera tensiones sobre arriendos y obligaciones comerciales."}
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Criterios para elegir una red de distribución",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ilustración 3D: una fábrica roja y un almacén azul con monedas y engranajes, de los que salen flechas azules hacia casas, y de las casas hacia grupos de figuras humanas azules. Representa el flujo productor → puntos de distribución → consumidores."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [11]
+}

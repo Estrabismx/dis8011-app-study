@@ -1,0 +1,264 @@
+{
+  "archivo_pdf": "pdf/producto-parte-1-y-2.pdf",
+  "archivo_md": "markdown/producto-parte-1-y-2.md",
+  "nombre_original": "PRODUCTO_parte 1 y 2.pdf",
+  "titulo": "Estrategia Comercial – Producto (partes 1 y 2)",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 34,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en varias diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "nota": "Las tablas de las páginas 10 y 26 aparecen en el .md con las columnas mezcladas; aquí se transcriben ordenadas.",
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Estrategia Comercial'",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de Venn de las 4P: Producto, Precio, Placement y Promoción, con 'Marketing Mix' al centro."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Definición de producto",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Código de barras con una etiqueta colgante roja que dice 'PRODUCTO'."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Escalera de diferenciación vs precio",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Gráfico en escalera: eje vertical de Indiferencia (abajo) a Diferenciación (arriba); eje horizontal de Precio base a Precio mayor. Escalones de abajo hacia arriba: COMMODITIES → PRODUCTOS → SERVICIOS → EXPERIENCIAS → '???????' (celeste, el siguiente nivel aún por definir). A mayor diferenciación, mayor precio posible."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Niveles de producto",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres círculos concéntricos. Centro: PRODUCTO BÁSICO (verde; '¿Qué está adquiriendo realmente el comprador? Beneficios básicos que satisfagan la necesidad'). Medio: PRODUCTO REAL (rosado; Marca, Variables, Nivel de calidad, Diseño, Empaque; 'el beneficio se convierte en producto real con sus características'). Exterior: PRODUCTO AUMENTADO (celeste; Entrega y crédito, Servicio posterior a la venta, Instalación, Garantía; 'se ofrecen servicios y beneficios adicionales'). Una flecha azul sale del centro hacia el dibujo de una lavadora como ejemplo."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Ejemplos de diferenciación",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Tres envases de productos chilenos de consumo masivo diferenciados: pan de molde Fuchs Multigrano ('buena fuente de fibra y proteína', vegano, masa madre); sal de mar Lobos entrefina en doypack negro y celeste; bandeja de 30 huevos de gallinas libres con etiqueta fucsia ('Huevos de gallinas libres', tamaño grande)."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Diferenciación en un servicio (sin texto)",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Respaldo del asiento delantero de un auto (taxi o transporte de pasajeros) visto desde el asiento trasero: tiene una hoja plastificada con información para el pasajero y un bolsillo con botellas de bebida y agua y otros artículos a disposición. Ejemplo de un servicio que se diferencia con extras."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Imagen de video (sin texto)",
+      "imagenes": [
+        {"tipo": "captura_video", "descripcion": "Fotograma con el logo 'hiptoro' arriba a la izquierda: vista cenital de una mesa con un plato blanco vacío, una taza de café con cuchara y pequeñas figuras/objetos sobre la mesa; en primer plano se ve parte de una persona con bufanda roja. El sentido exacto no se explica en la diapositiva."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "'A veces, sólo es cuestión de hacer lo básico, bien hecho'",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Tres productos clásicos y simples: un lápiz pasta azul tipo Bic, una caja de fósforos Copihue y una lata de anilinas (tinte). Ejemplos de productos básicos exitosos por cumplir bien su función."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Evolución del valor",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Escalera temporal con el ejemplo del café (basado en Pine & Gilmore, 1998, 'Welcome to the Experience Economy', HBR): 1900s Materias primas – Extraer (granos de café); 1920s Productos – Fabricar (frasco de Nescafé); 1950s Servicios – Servir (ilustración de 'Coffee Shop'); 1980s Experiencias – Poner en escena (logo de Starbucks); 2010s Transformaciones – Acompañar/guiar (Nespresso, cápsulas y tazas)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Producto y servicios",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Comparación entre productos y servicios por dimensión.",
+          "datos": [
+            {"dimension": "Naturaleza", "productos": "Tangibles: se pueden ver, tocar y almacenar.", "servicios": "Intangibles: son experiencias o resultados."},
+            {"dimension": "Producción y consumo", "productos": "Separados: se producen antes del consumo.", "servicios": "Simultáneos: se producen y consumen al mismo tiempo."},
+            {"dimension": "Estandarización", "productos": "Más fácil de controlar y mantener calidad constante.", "servicios": "Variable: depende de quién, cuándo y cómo se presta (heterogeneidad)."},
+            {"dimension": "Almacenamiento", "productos": "Pueden guardarse en inventario.", "servicios": "No pueden almacenarse (perecibles)."},
+            {"dimension": "Propiedad", "productos": "El cliente adquiere un objeto físico.", "servicios": "El cliente accede o usa algo temporalmente; no hay transferencia de propiedad."},
+            {"dimension": "Participación del cliente", "productos": "Limitada: el consumidor solo usa el producto terminado.", "servicios": "Alta: el cliente coproduce la experiencia."},
+            {"dimension": "Evaluación previa", "productos": "Puede evaluarse antes de comprar (ej.: auto, celular).", "servicios": "Se evalúa durante o después del consumo (ej.: atención médica, hotel)."}
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "El cliente que se va por precio vuelve por servicio",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Tarjeta con el texto 'El cliente que se va por precio, volverá por servicio. Mientras el que se va por servicio, no volverá por ningún precio' (palabras subrayadas/encerradas en rojo y 'servicio' resaltado en celeste), junto a un emoji amarillo enojado."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "¿Qué son las experiencias?",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Mesa de restaurante con platos de comida gourmet, dos copas y una botella de vino tinto."},
+        {"tipo": "fotografia", "descripcion": "Pareja en reposeras frente a una playa de aguas turquesa, tomados de la mano, con sombrero y bolso de playa. Ambas fotos ilustran experiencias (sensaciones, emociones y pensamientos)."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Productos B2C vs B2B",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Dos dibujos en blanco y negro: una casa con chimenea y luna (representa el hogar / bienes de consumo, B2C) y una fábrica con chimeneas humeantes (representa la industria / bienes de negocios, B2B)."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Bienes de consumo",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Mismo dibujo de la casa con chimenea, simbolizando el consumidor del hogar."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Bienes de conveniencia",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Carro de supermercado lleno de productos de consumo diario (legumbres, pan envasado, conservas, envases), con una mano tomando un producto. Ilustra compras frecuentes de bajo esfuerzo."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Bienes de selección",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Tres imágenes: ilustración de pequeños electrodomésticos (hervidor, licuadora, secador de pelo, plancha de pelo); fotografía de una mujer eligiendo ropa colgada en perchas; fotografía de un auto pequeño verde limón (tipo city car). Productos donde el cliente compara calidad, precio y estilo."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Bienes de especialidad",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Productos de lujo/marca: zapatillas con tachas junto al logo de Louis Vuitton, un reloj de pulsera plateado cuadrado de lujo, un traje negro elegante y un auto deportivo convertible plateado. Productos por los que el consumidor tiene fuerte preferencia de marca."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Bienes no buscados",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Lápida/sepultura con una cruz (servicios funerarios), un detector de humo y monóxido de carbono, un celular de pantalla curva/flexible (producto nuevo no conocido) y un aviso de 'Seguros de Vida' con un hombre mayor conversando con un vendedor joven."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Bienes de negocios o industriales",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Dibujo en blanco y negro de una fábrica con chimeneas humeantes."}
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "Materias primas",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Círculo dividido en sectores con fotos de materias primas (cuerda/fibras azules, gránulos plásticos, lápices de colores, tubos de ensayo con líquidos, cables, madera, pigmentos en polvo de colores, vidrio triturado) y al centro 'MATERIAS PRIMAS'."}
+      ]
+    },
+    {
+      "pagina": 23,
+      "tema": "Materiales y partes de fabricación",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Sacos de cemento Portland apilados; piezas metálicas mecánicas (partes de motor/fundición); bobinas de lámina de acero; tuercas, pernos y tornillos. Ejemplos de materiales y partes."}
+      ]
+    },
+    {
+      "pagina": 24,
+      "tema": "Instalaciones y equipamiento",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Edificio corporativo alto de vidrio y estructura blanca (instalaciones); avión Boeing comercial en pista y línea de montaje automotriz con robots y autos (equipamiento)."}
+      ]
+    },
+    {
+      "pagina": 25,
+      "tema": "Equipo accesorio, insumos y servicios",
+      "imagenes": [
+        {"tipo": "collage", "descripcion": "Herramientas manuales (llave inglesa, martillo, alicate, destornillador) como equipo accesorio; y artículos de oficina (hoja de cuaderno, lápices, goma, clip, tijeras, corchetera, sacapuntas, apretador de papel) como insumos."}
+      ]
+    },
+    {
+      "pagina": 26,
+      "tema": "Estrategias comerciales diferenciadas (mercado de negocios)",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla de estrategias de marketing mix según el tipo de bien de negocios.",
+          "datos": {
+            "Materias primas": {"Producto": "Productos muy estandarizados y de baja diferenciación.", "Precio": "Determinado principalmente por condiciones de mercado (oferta y demanda). Competencia principalmente por precio.", "Plaza": "Predomina la venta directa productor–usuario. Transporte y logística son críticos (distancias, volumen o perecibilidad).", "Promoción": "Escasa publicidad y baja fidelidad de marca."},
+            "Materiales y partes": {"Producto": "Materiales generalmente estandarizados. En partes, la marca puede ser relevante (ej.: procesadores Intel).", "Precio": "Precio relevante en la decisión de compra, junto con el servicio del proveedor.", "Plaza": "Venta directa productor–usuario o mediante grandes distribuidores.", "Promoción": "Predomina la venta personal; la marca generalmente tiene menor importancia en materiales y mayor relevancia en algunas partes."},
+            "Instalaciones y equipamiento": {"Producto": "Productos de mayor complejidad técnica, generalmente adaptados a las necesidades del cliente. Servicio posventa importante.", "Precio": "Precio negociado. La decisión considera también características técnicas, desempeño y servicio.", "Plaza": "Predomina la venta directa.", "Promoción": "Fuerza de ventas especializada. Negociación prolongada y fuerte importancia del contacto personal."},
+            "Equipos accesorios, insumos y servicios": {"Producto": "Calidad, características técnicas y servicio son elementos relevantes de diferenciación.", "Precio": "Precio relevante, pero evaluado conjuntamente con calidad, características y servicio.", "Plaza": "Mayor utilización de intermediarios especializados para atender segmentos específicos.", "Promoción": "Fuerza de ventas importante. Predomina el contacto personal y la comunicación dirigida a clientes específicos."}
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 27,
+      "tema": "Mezcla de producto",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Conjunto de botellas de bebidas de Coca-Cola Company (Coca-Cola, Coca-Cola light, Coca-Cola Zero, Fanta, Sprite, Inca Kola, aguas, jugos) rodeadas por una cinta de medir amarilla. Representa el total de productos que vende una compañía."}
+      ]
+    },
+    {
+      "pagina": 28,
+      "tema": "Línea de producto",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Línea de productos Oral-B Pro-Salud (pastas, cepillos, enjuague bucal e hilo dental) en una bandeja."},
+        {"tipo": "fotografia_producto", "descripcion": "Portafolio de bebidas de Coca-Cola (Vital, Fanta, Sprite, Coca-Cola, Coca-Cola Zero, etc.) con un menú lateral por categorías (refrescos, bajas en calorías, agua, energéticas, jugos, deportivas, té, sin gas, vitaminadas) y el texto 'Portafolio de productos'."}
+      ]
+    },
+    {
+      "pagina": 29,
+      "tema": "Tipo de producto",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Ejemplos de tipos dentro de una línea: latas de Diet Coke y Coca-Cola Zero; cepillo de dientes manual Oral-B (pack 2x1) y cepillo eléctrico Oral-B; distintos tipos de pan (marraquetas/pan francés y hallullas)."}
+      ]
+    },
+    {
+      "pagina": 30,
+      "tema": "Artículo (unidad de inventario)",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Ejemplos de artículos específicos: iPhones de distintos colores, cepillos Oral-B Pro-Salud de distintos colores, pegamentos Pritt Stick de tres tamaños, y Coca-Cola Zero en botella y en lata. Se diferencian por tamaño, color o formato."}
+      ]
+    },
+    {
+      "pagina": 31,
+      "tema": "Jerarquía de productos",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Pirámide con seis niveles (de la base a la cima) y una definición de color para cada uno: Familia de necesidades (necesidades fundamentales que subyacen a una familia de productos) → Familia de producto (todas las clases que satisfacen una necesidad básica) → Clase de producto (grupo de productos de una misma familia con cierta coherencia) → Línea de producto (productos de la misma clase relacionados por función similar) → Tipo de producto (artículos de una misma línea que comparten una o varias formas) → Artículo (unidad que se puede distinguir dentro de una marca o línea)."}
+      ]
+    },
+    {
+      "pagina": 32,
+      "tema": "Estructura de una mezcla de productos",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cuatro cuadros de color: ANCHO (verde oliva; número de líneas comercializadas), EXTENSIÓN (morado; número total de artículos dentro de cada línea), PROFUNDIDAD (rojo; cantidad de versiones de cada producto de cada línea) y CONSISTENCIA (naranja; qué tan relacionadas están las líneas entre sí)."}
+      ]
+    },
+    {
+      "pagina": 33,
+      "tema": "Profundidad y amplitud de líneas",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cuadrícula con tres filas (Línea X verde oliva, Línea Y roja, Línea Z morada), cada una con cinco cuadrados numerados 1–5. La dirección horizontal es la 'Profundidad de líneas'; la llave vertical a la derecha indica la 'Amplitud'. Una flecha roja señala un cuadrado como 'Tipo de producto'."}
+      ]
+    },
+    {
+      "pagina": 34,
+      "tema": "Jerarquía de productos y necesidades (ejemplo higiene bucal)",
+      "imagenes": [
+        {"tipo": "infografia", "descripcion": "Tabla ilustrada con una mascota de muela sonriente. Niveles: 1. Familia de necesidad = SALUD; 2. Familia de producto = HIGIENE; 3. Clase de producto = HIGIENE BUCAL; 4. Línea de producto = Cepillos, Pasta, Enjuagues, Seda dental; 5. Tipo de producto = cepillos Sensible/Normal/Eléctricos, pastas Sensitivity/Kids/Complete, enjuagues Normal/Extra fuerte, seda Con cera/Sin cera; 6. Artículo = diferentes colores, formatos y tamaños. Nota: a medida que se desciende, los productos se vuelven más específicos."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [11, 14]
+}

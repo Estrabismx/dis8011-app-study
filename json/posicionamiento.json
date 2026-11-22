@@ -1,0 +1,136 @@
+{
+  "archivo_pdf": "pdf/posicionamiento.pdf",
+  "archivo_md": "markdown/posicionamiento.md",
+  "nombre_original": "Posicionamiento.pdf",
+  "titulo": "Posicionamiento",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 15,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Posicionamiento'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Imagen surrealista en blanco y negro: perfil de una cabeza humana cuya parte superior está abierta y contiene un laberinto con pequeñas figuras de personas recorriéndolo. Metáfora del lugar que ocupa una marca en la mente del consumidor."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Resumiendo: de la segmentación al posicionamiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cinco flechas encadenadas con íconos: Segmentos (identificar y seleccionar segmentos atractivos) → Oportunidades de valor (definir necesidades y oportunidades de valor en cada segmento) → Ajuste de capacidades y oportunidades (alinear capacidades de la empresa con las oportunidades) → Objetivos (objetivos de marketing y negocio por segmento) → Posicionamiento deseado (propuesta de valor y posicionamiento en la mente del cliente)."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Posicionamiento de productos / marca",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Silueta negra de una cabeza de perfil; dentro del cerebro (en blanco) aparecen los logos de Coca-Cola, Apple, Windows, Adidas y Nike. Representa las marcas posicionadas en la mente del consumidor."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Mapas de percepción",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Mapa de percepción de autos con dos ejes: Económico ↔ Potente (horizontal) y Deportivo ↔ Familiar (vertical). Ubicaciones: Fiat Palio (económico-deportivo), Audi S4 (potente-deportivo), VW Gol Country (económico-familiar), Audi 4 (potente, cerca del centro hacia familiar)."},
+        {"tipo": "grafico", "descripcion": "Mapa de percepción genérico con ejes Baja calidad ↔ Alta calidad (horizontal) y Barato ↔ Caro (vertical). Muestra cinco segmentos (círculos I–V) y cinco marcas (puntos A–E) distribuidos en los cuadrantes; un círculo rojo vacío en el cuadrante caro/baja calidad, cerca de la Marca E, destaca una posición sin segmento (o mal posicionada)."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Del posicionamiento a la organización",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Infografía en cinco columnas de colores conectadas por flechas: 1. Mercado objetivo (¿A quién nos dirigimos? segmentos, necesidades, características, tamaño) → 2. Posicionamiento deseado (¿Qué lugar queremos ocupar en la mente del cliente? 'La propuesta de valor y los atributos que nos diferencian') → 3. Estrategia comercial / mix de marketing (Producto, Precio, Promoción, Plaza) → 4. Estructura y cultura organizacional (estructura, procesos, capacidades, cultura, incentivos, liderazgo) → 5. Posicionamiento logrado o percibido (percepción de atributos, comparación con competidores, fortalezas y brechas, preferencia, oportunidades). Una flecha de 'Retroalimentación' vuelve del paso 5 al 1."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Estrategias de posicionamiento: atributo y beneficios",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Bolsa de detergente Ace 'Oxígeno activo' de 5,5 kg / 51 cargas (ejemplo de posicionamiento por atributo)."},
+        {"tipo": "fotografia_producto", "descripcion": "Pack de pilas Duracell AA x16 con el conejo rosado y el mensaje 'Dura 10x más' (ejemplo de posicionamiento por beneficio: duración)."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Estrategias: uso/aplicación, usuario y estilo de vida",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Lata de Red Bull Energy Drink (posicionamiento por uso o situación de consumo)."},
+        {"tipo": "fotografia", "descripcion": "Mujer rubia con traje rojo posando junto a un frasco de perfume Chanel (posicionamiento por usuario: perfil aspiracional)."},
+        {"tipo": "fotografia_producto", "descripcion": "Motocicleta tipo cruiser negra con tanque rojo (posicionamiento por estilo de vida)."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Estrategias: calidad/precio y frente a la competencia",
+      "imagenes": [
+        {"tipo": "logos", "descripcion": "Logos de supermercados chilenos: Lider ('Siempre los precios más bajos') y Jumbo de Cencosud ('Te da más'). Ejemplos de posicionamiento por precio vs por calidad."},
+        {"tipo": "logos", "descripcion": "Logos de Coca-Cola y Pepsi, ejemplo de posicionamiento frente a la competencia (líder vs seguidor)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Ejemplos de publicidad de posicionamiento",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso de Duracell: '#1 La pila alcalina que más dura – para todos los dispositivos', con el conejo rosado empujando una pila y aparatos (control de videojuego, reloj, juguetes) saliendo de ella."},
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso de Kingston Technology: 'SSD Kingston: No compres tecnología, adquiere tiempo libre', con la imagen de una unidad SSD M.2 A1000."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Campaña Corona 'Find your beach'",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso vertical de Corona Extra: botella con limón sobre un tronco frente a una playa de arena blanca y mar turquesa, con el texto 'Find your beach.' A la derecha, un texto del profesor analiza la campaña: posiciona la marca en el placer universal de la playa, con imagen paradisíaca, pocos elementos y mensaje simple."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Campaña Corona (variantes)",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Cuatro piezas de Corona: hombre en bicicleta por camino de playa con caja de Corona ('Encuentra tu playa'); mano tomando una botella frente al número '13:00'; botella en la playa ('Find your beach'); y aviso 'Cuida junto a nosotros el futuro de las playas de Chile' con dos personas sentadas en rocas frente al mar (logos AB InBev y otros al pie)."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Empieza a vender emociones",
+      "imagenes": [
+        {
+          "tipo": "infografia",
+          "descripcion": "Recuadro negro de Fluence Leaders titulado 'Empieza a vender emociones', con pares 'marca: no vende X, vende Y'.",
+          "datos": {
+            "Coca Cola": "No vende refrescos, vende felicidad",
+            "Nike": "No vende zapatillas, vende superación",
+            "Harley-Davidson": "No vende motos, vende libertad",
+            "Red Bull": "No vende energizantes, vende aventura",
+            "Amazon": "No vende productos, vende comodidad",
+            "Securitas Direct": "No vende alarmas, vende seguridad",
+            "WWF": "No vende donaciones, vende miedo",
+            "Apple": "No vende dispositivos, vende creatividad",
+            "Walt Disney": "No vende películas, vende ilusión",
+            "Axe": "No vende desodorantes, vende ser gustado"
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Volvo: posicionamiento en seguridad",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso antiguo de Volvo: un sedán Volvo café con un tanque militar detrás en el desierto y el titular '¿Ha visto alguna vez un tanque a 200 kms. por hora?' (etiqueta 'Publicidad y automóvil'). Comunica robustez/seguridad."},
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso 'El nuevo Volvo XC60 llega para marcar el futuro – REVOLVOLUTION': SUV gris con un maniquí de pruebas de choque apoyado en él, presentado en Autoclásica 2009."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Errores de posicionamiento",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ventana de mensaje de error de computador semitransparente ('Error message', ícono rojo con X, 'Error!' y botón 'Cancel') detrás del texto. Refuerza la idea de 'errores'."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [6]
+}

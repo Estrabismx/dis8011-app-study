@@ -1,0 +1,143 @@
+{
+  "archivo_pdf": "pdf/marca.pdf",
+  "archivo_md": "markdown/marca.md",
+  "nombre_original": "MARCA.pdf",
+  "titulo": "Marca",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 20,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Marca'",
+      "imagenes": [
+        {"tipo": "collage_logos", "descripcion": "Mosaico de logos de marcas de moda y deporte: Levi's, Jordan, Nike, Adidas (trébol y tres barras), Puma, H&M, D&G, Lacoste, Zara, Lotto, Chanel, Foot Locker, Gucci, Hugo Boss, Champion, Fila, Under Armour, Reebok, Versace, Louis Vuitton, Polo Ralph Lauren, Converse, ellesse, Timberland, Prada, Armani Jeans, Diesel, Quiksilver y Kappa."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Logotipo",
+      "imagenes": [
+        {"tipo": "collage_logos", "descripcion": "Ejemplos de logotipos puramente tipográficos (sin ícono): FedEx, Microsoft, Nokia, Google, CNN, Facebook, Coca-Cola y Mobil."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Isotipo",
+      "imagenes": [
+        {"tipo": "collage_logos", "descripcion": "Ejemplos de isotipos (símbolos sin texto): pájaro de Twitter, manzana de Apple, 'swoosh' de Nike, anillos olímpicos, ficha de dominó de Domino's y círculo de Pepsi."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Tipos de identificadores de marca",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Infografía dividida por una línea punteada. Arriba, 'Identificadores simbólicos': Símbolo solo (ej. Lacoste, Volkswagen, Shell, Nike, Cruz Roja), Logo-símbolo (ambos signos integrados en una unidad; ej. Kodak, BMW, Paramount, Harley-Davidson, Londres 2012) y Logotipo con símbolo (signos independientes; ej. Nestlé, Mercedes-Benz, Pepsi, Cartoon Network, HSBC, Tommy Hilfiger). Abajo, 'Identificadores nominales': Logotipo con fondo (ej. Levi's, HP, Stanley, Dow, Ford, TNT), Logotipo puro (solo tipografía; ej. Braun, Sony, IBM, Coca-Cola, Davidoff) y Logotipo con accesorio (ej. gasNatural, Dole, Accenture, Clinique, British Airways, Kraft Foods)."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "El significado de las marcas",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Infografía en tabla (texto muy pequeño) que clasifica decenas de logos por el origen de su significado en columnas: Sentido metafórico (Apple, Dove, Ralph Lauren…), Animales emblemáticos (Linux, Ferrari, Lacoste, Puma, Red Bull, Jaguar…), Obvio si lo conoces (BMW, Bic, Peugeot, LG…), Iniciales (Rolls Royce, Motorola, Chanel, Volkswagen, HP, GE…), Formas que hablan (Shell, Mercedes-Benz, Windows, McDonald's, Marlboro…), Detalles claves (Mitsubishi, HSBC, Starbucks, Carrefour, Chevrolet, Adidas, Santander…) y Diseño imaginativo (Audi, Nike, Atari, Renault, Sony Ericsson…). Cada logo trae una breve explicación de su origen."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Proceso de creación de una marca",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Cartel amarillo tipo globo de diálogo con la palabra 'BRANDING' en letras grises grandes."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Los diez principios del branding",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Mismo cartel amarillo 'BRANDING' de la página 8."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Marketing vs Branding",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Dos tarjetas blancas con texto: 'MARKETING es como invitar a alguien a salir' y 'BRANDING es la razón por la que te dicen que sí'. Al lado, un ramo de flores cosmos rosadas y fucsias, que refuerza la metáfora de la cita."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Significado oculto del logo de Amazon",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Logo de Amazon con anotaciones a mano: la flecha naranja va de la 'a' a la 'z' ('vende todo de la A a la Z') y su forma curva es una sonrisa ('felicidad de los clientes')."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Significado oculto del logo de Adidas",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Logo de Adidas (tres barras inclinadas) con anotaciones: las barras numeradas 1, 2 y 3 forman una montaña que 'representa desafío'; tienen un 'ángulo de 30°'; y el dibujo de una zapatilla indica que 'mantiene la forma' de las tres franjas del calzado."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Significado oculto del logo de Airbnb",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Logo de Airbnb (símbolo 'Bélo' en rojo coral) rodeado de cuatro dibujos que explican sus elementos: 1. Personas (figura con cabeza), 2. Lugares (pin de ubicación), 3. Airbnb (letra A), 4. Amor (corazón)."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Significado oculto del logo de VAIO",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Logo de VAIO con anotaciones: 'VA' dibuja una onda analógica; 'IO' representa el código binario (1 y 0) o señal digital. Une lo analógico con lo digital."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Significado oculto del logo de Nintendo GameCube",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Logo de Nintendo GameCube con anotaciones: el símbolo es un 'cubo' y a la vez forma la 'letra G' y la 'letra C' (GameCube)."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Significado oculto del logo de Toyota",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Seis repeticiones del logo de Toyota; debajo de cada una se aísla una parte del emblema (tres óvalos) que coincide con una letra: T, O, Y, O, T, A. Muestra que todas las letras de la palabra 'TOYOTA' están contenidas en el símbolo."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Significado oculto del logo de Tesla",
+      "imagenes": [
+        {"tipo": "logo_explicado", "descripcion": "Secuencia en inglés: corte transversal de un motor eléctrico ('Electric Motor Cross-section') > el mismo corte resaltando 'a single rotor from the cross section' > 'The Tesla logo'. La 'T' de Tesla representa una pieza del rotor de un motor eléctrico."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Las marcas más valiosas del mundo en 2025",
+      "imagenes": [
+        {
+          "tipo": "infografia_ranking",
+          "descripcion": "Tabla de las 10 marcas más valiosas en 2025 (cifras en millones de dólares), con puesto 2025, puesto 2024, logo y bandera del país. Fuente: Brand Finance, publicado por Valora Analitik.",
+          "datos": [
+            {"puesto_2025": 1, "puesto_2024": 1, "marca": "Apple", "pais": "EE.UU.", "valor_usd_millones": 574510},
+            {"puesto_2025": 2, "puesto_2024": 2, "marca": "Microsoft", "pais": "EE.UU.", "valor_usd_millones": 461069},
+            {"puesto_2025": 3, "puesto_2024": 3, "marca": "Google", "pais": "EE.UU.", "valor_usd_millones": 412981},
+            {"puesto_2025": 4, "puesto_2024": 4, "marca": "Amazon", "pais": "EE.UU.", "valor_usd_millones": 356386},
+            {"puesto_2025": 5, "puesto_2024": 6, "marca": "Walmart", "pais": "EE.UU.", "valor_usd_millones": 137183},
+            {"puesto_2025": 6, "puesto_2024": 5, "marca": "Samsung", "pais": "Corea del Sur", "valor_usd_millones": 110593},
+            {"puesto_2025": 7, "puesto_2024": 7, "marca": "TikTok", "pais": "China", "valor_usd_millones": 105790},
+            {"puesto_2025": 8, "puesto_2024": 8, "marca": "Facebook", "pais": "EE.UU.", "valor_usd_millones": 91457},
+            {"puesto_2025": 9, "puesto_2024": 30, "marca": "Nvidia", "pais": "EE.UU.", "valor_usd_millones": 87871},
+            {"puesto_2025": 10, "puesto_2024": 12, "marca": "Corporación Estatal de Red Eléctrica de China", "pais": "China", "valor_usd_millones": 85626}
+          ]
+        }
+      ]
+    }
+  ],
+  "paginas_solo_texto": [2, 3, 19, 20]
+}

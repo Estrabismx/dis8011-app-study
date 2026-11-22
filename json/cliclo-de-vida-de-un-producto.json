@@ -1,0 +1,230 @@
+{
+  "archivo_pdf": "pdf/cliclo-de-vida-de-un-producto.pdf",
+  "archivo_md": "markdown/cliclo-de-vida-de-un-producto.md",
+  "titulo": "Ciclo de vida de un producto",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 30,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en todas las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Ciclo de vida de un producto'",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Reloj de arena de vidrio con arena dorada cayendo. Representa el paso del tiempo."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Los productos, como las personas, tienen un ciclo de vida",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Secuencia de dibujos de un mismo hombre en distintas edades: bebé, niño, niño con pelota, adolescente con mochila, joven, adulto de traje con maletín, adulto mayor y anciano con bastón."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Curva del ciclo de vida",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Gráfico con eje vertical 'Ventas y utilidades $' (arriba) / 'Pérdidas e inversión $' (abajo) y eje horizontal 'Tiempo'. Curva azul de Ventas (sube, alcanza su máximo y cae) y curva roja de Utilidades (negativa al inicio, luego positiva y luego baja). Cinco etapas numeradas: 1) Etapa de desarrollo (solo pérdidas/inversión), 2) Introducción (crecimiento lento en ventas, altos gastos asociados), 3) Crecimiento (período de aceptación en el mercado y mejora de utilidades), 4) Madurez (penetración potencial máxima de su mercado; utilidades estables o se reducen por estrategias defensivas), 5) Declinación/Declive (las ventas caen y las utilidades se reducen)."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Matriz BCG",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz 2x2 con eje horizontal 'Participación de mercado' (Alta a la izquierda, Baja a la derecha) y eje vertical 'Crecimiento de la demanda' (Alta arriba, Baja abajo). Cuadrantes con dibujos en blanco y negro: Estrella sonriente (alto crecimiento, alta participación), signo de Interrogación (alto crecimiento, baja participación), Vaca (bajo crecimiento, alta participación) y Perro bulldog (bajo crecimiento, baja participación)."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Matriz BCG y ciclo de vida",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Curva del ciclo de vida sobre un suelo café con cuatro etapas y plantas que crecen: Introducción (brote pequeño) → Crecimiento (planta) → Madurez (árbol con frutos) → Declive (tierra sin planta). Sobre la curva, los íconos BCG asociados: Interrogante en introducción, Estrella en crecimiento, Vaca en madurez y Perro en declive."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "BCG: Interrogación",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz BCG con globo amarillo sobre el signo de interrogación: 'No se sabe exactamente qué pasará con ellos. Hay que reevaluar la estrategia en dicha área, que eventualmente se puede convertir en una estrella o en un perro'."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "BCG: Estrella",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz BCG con globo azul sobre la estrella: 'Son productos generadores de rentabilidad pero que requieren constantes inversiones, lo que hace que tengan un flujo de fondos nulo o negativo generalmente'."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "BCG: Vaca",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz BCG con globo verde sobre la vaca: 'Son generadores de ingresos, con importante rentabilidad y bajas inversiones'."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "BCG: Perro",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz BCG con globo negro sobre el perro: 'Son productos en su última etapa del ciclo de vida generalmente. Normalmente no conviene mantenerlos en el portafolio de la empresa (o mezcla de productos)'."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "¿Por qué estudiar el ciclo de vida de los productos?",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Canasto de mimbre con huevos (alusión a 'no poner todos los huevos en la misma canasta' = diversificar el portafolio)."},
+        {"tipo": "fotografia", "descripcion": "Huevos con caras dibujadas: uno asustado, uno preocupado y uno roto 'muerto' (con X en los ojos). Representa productos que entran en declive."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Caso Nokia",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Imagen tipo meme sobre fondo negro: un ejecutivo calvo de traje cubriéndose la cara con la mano, emocionado, frente a un micrófono; en la esquina, un celular Nokia 3310. Texto: 'CEO de Nokia: \"No hicimos nada malo, sin embargo terminamos perdiendo\"'."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Curvas S de sustitución tecnológica (video)",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Eje vertical 'Performance', horizontal 'Tiempo'. Cinco curvas en S sucesivas (Tecnología A a E), cada una superando a la anterior en un 'punto de inflexión'. Ejemplos con íconos: Cintas VHS (años 80–90) → DVD (años 90–2000) → Blu-ray (años 2000–2010) → Streaming (años 2010–2020; Netflix, Disney+, YouTube) → Streaming on demand (años 2020 en adelante; Prime Video, HBO Max, Apple TV)."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "¿Cómo reconocer un nuevo producto?",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Timbre/sello azul circular con estrellas y el texto 'NEW PRODUCT'."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "¿Qué pasa aquí? (productos retro que vuelven)",
+      "imagenes": [
+        {"tipo": "fotografia_producto", "descripcion": "Zapatilla Adidas Samba blanca con franjas negras y suela café."},
+        {"tipo": "fotografia", "descripcion": "Pila de discos de vinilo con un disco negro encima."},
+        {"tipo": "fotografia_producto", "descripcion": "Reloj digital Casio clásico plateado."},
+        {"tipo": "articulo_prensa", "descripcion": "Página de diario 'En pleno reinado digital, los nostálgicos reviven el casete', con imagen de un walkman, audífonos y una mano sosteniendo un casete."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "¿Qué es la innovación?",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Fondo tenue de engranajes grandes con personas trabajando en ellos (trabajo en equipo e innovación)."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "La innovación como proceso de exploración y descubrimiento rápido",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Embudo/curva naranja creciente en cuatro etapas: Descubrimiento (exploración amplia de oportunidades; 1.000 ideas, 100 seleccionadas) → Incubación (selección y desarrollo de las ideas más prometedoras; 10 pilotos) → Aceleración (pilotos y validación en el mercado; 3 lanzamientos) → Escalamiento (crecimiento del producto o servicio exitoso; 1 éxito, representado por un sol)."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Ejemplos de innovación en prensa (sin texto del profesor)",
+      "imagenes": [
+        {"tipo": "articulo_prensa", "descripcion": "Recorte 'Aunque las gallinas sean felices sus huevos no son mejores' (tendencias del consumo responsable), con foto de gallinas."},
+        {"tipo": "articulo_prensa", "descripcion": "Recorte 'Bebidas dietéticas alcanzan hasta un 22% de la venta de gaseosas en Chile', con una botella de Coca-Cola y un gráfico de torta del mercado de bebidas bajas en azúcar."},
+        {"tipo": "articulo_prensa", "descripcion": "Recorte 'La última innovación en máquinas de afeitar para hombres' sobre la Gillette Fusion ProShield, con foto de la máquina amarilla."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "El mundo de hoy: un entorno en permanente cambio",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Planeta Tierra visto desde el espacio (Europa y África)."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "El proceso creativo para negocios",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Cerebro dividido: la mitad izquierda dibujada en líneas negras (lógica) y la derecha estallando en manchas y salpicaduras de colores (creatividad)."}
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "De una necesidad a una innovación (Design Thinking)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Proceso de cinco pasos para desarrollar nuevos productos o servicios con orientación al mercado, con una flecha inferior Necesidad → Información → Ideas → Desarrollo → Mercado: 1) Necesidad/Problema (oportunidad a atender: detectar una necesidad no satisfecha o problema del mercado; identificar oportunidades de creación de valor); 2) Investigar y comprender (analizar el entorno y el mercado: entender el futuro con forecasting y prospectiva estratégica; scanning del entorno con tendencias, señales del futuro y rupturas; comprender al cliente/usuario con observación, investigación y benchmarking); 3) Generar ideas (explorar alternativas: técnicas creativas como brainstorming; generar múltiples alternativas; evaluar y seleccionar las mejores); 4) Desarrollar y probar (convertir ideas en soluciones: construir y probar prototipo; evaluar si resuelve el problema; analizar valor y viabilidad; ajustes); 5) Lanzar (introducción al mercado, estrategia comercial, monitorear resultados y aprender). Resultado: INNOVACIÓN (creación de valor para clientes/usuarios, la empresa y la sociedad). Nota al pie sobre Design Thinking."}
+      ]
+    },
+    {
+      "pagina": 23,
+      "tema": "Técnicas creativas",
+      "imagenes": [
+        {
+          "tipo": "infografia",
+          "descripcion": "Infografía 'Técnicas creativas: herramientas para generar ideas nuevas y soluciones innovadoras', con ocho tarjetas ilustradas.",
+          "datos": {
+            "1. Lluvia de ideas": "Generar muchas ideas sin evaluarlas inicialmente; primero cantidad, después se seleccionan las mejores.",
+            "2. SCAMPER": "Sustituir, Combinar, Adaptar, Modificar, Proponer otros usos, Eliminar, Reordenar: analizar un producto, servicio o proceso mediante siete acciones para generar alternativas.",
+            "3. Mapas mentales": "Organizar visualmente conceptos y asociaciones desde una idea central; facilitan conexiones que no siempre aparecen en un análisis lineal.",
+            "4. Analogías": "Buscar soluciones observando cómo otro sector, empresa, organismo o fenómeno resuelve un problema semejante (ej.: ¿cómo lo haría una aerolínea, un hospital o una plataforma digital?).",
+            "5. Seis sombreros para pensar": "Examinar una idea desde seis perspectivas: blanco información, rojo emociones, negro riesgos, amarillo beneficios, verde creatividad, azul conducción del proceso.",
+            "6. Pensamiento inverso": "Plantear el problema al revés (¿qué haríamos para empeorar la situación?) e invertir las respuestas para descubrir oportunidades de mejora.",
+            "7. Asociación forzada": "Relacionar deliberadamente el problema con una palabra, objeto o concepto aparentemente desconectado para producir nuevas conexiones.",
+            "8. Prototipado": "Transformar rápidamente una idea en una representación simple para observarla, probarla y mejorarla."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 24,
+      "tema": "Dos formas de entender el futuro: forecasting vs prospectiva",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Esquema tenue de fondo con flechas: FUTURO → 'es lineal' → 'se puede predecir' → forecasting; y 'es múltiple' → 'se puede elegir' → prospectiva estratégica."}
+      ]
+    },
+    {
+      "pagina": 25,
+      "tema": "Observar el entorno para anticiparse",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Pizarra gris con palabras escritas a tiza y encerradas en círculos: Diagnóstico → Análisis del entorno, Tendencias, Señales de futuro, Rupturas."}
+      ]
+    },
+    {
+      "pagina": 26,
+      "tema": "Distintos futuros posibles",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cono de futuros que se abre desde un círculo 'Presente' a lo largo del eje 'Tiempo', con capas de colores: Posible (morado; lo que podría llegar a ocurrir, requiere condiciones menos probables o grandes cambios), Plausible (naranja; lo que podría ocurrir, razonable y factible dadas ciertas condiciones), Probable (verde; lo que probablemente ocurrirá según tendencias y datos actuales) y Preferible (azul; lo que queremos que ocurra, mejor calidad de vida o mayor valor para la sociedad)."}
+      ]
+    },
+    {
+      "pagina": 27,
+      "tema": "Marketing estratégico: flujo de decisiones",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de flujo. Izquierda: Análisis de mercado (investigación de mercado) → Necesidad insatisfecha articulada → ¿Es factible? (marketing estratégico reactivo). Derecha: Actividades de I&D (desarrollo tecnológico) → Idea de nuevo producto → ¿Hay una necesidad latente? (marketing estratégico proactivo). Ambos (con coordinación interfuncional) convergen en 'Marketing estratégico' → Segmento objetivo, que se divide en: Programa de marketing (producto, precio, promoción, distribución) → Marketing operativo → Gastos de marketing, ingresos por ventas; y Programa de inversión (plan de producción) → Gestión de las operaciones → Inversión y costos operativos (unidos por 'planificación de la producción y logística de distribución'). Todo termina en 'Gestión financiera'."}
+      ]
+    },
+    {
+      "pagina": 28,
+      "tema": "Para recibir valor, hay que dar valor",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Familia feliz: un hombre con una niña sobre los hombros y una mujer, todos riendo al aire libre."}
+      ]
+    },
+    {
+      "pagina": 29,
+      "tema": "En resumen: la creatividad es un proceso",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Lápiz amarillo y negro de pie que ha dibujado una línea gruesa en el papel."}
+      ]
+    },
+    {
+      "pagina": 30,
+      "tema": "Los emprendedores exitosos detectan señales de futuro",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Hombre de traje y corbata mirando a través de unos binoculares."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [4, 16]
+}

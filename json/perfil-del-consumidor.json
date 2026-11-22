@@ -1,0 +1,136 @@
+{
+  "archivo_pdf": "pdf/perfil-del-consumidor.pdf",
+  "archivo_md": "markdown/perfil-del-consumidor.md",
+  "titulo": "Perfil del consumidor y proceso de compra",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 17,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "nota": "Las páginas 6 y 11 son imágenes cuyo texto NO aparece en el .md; se transcriben aquí.",
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Perfil del consumidor y proceso de compra'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ícono plano: una mano abierta sosteniendo un carro de compras amarillo con una caja. Fondo con franja celeste."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Perfil del consumidor / Buyer persona",
+      "imagenes": [
+        {"tipo": "infografia", "descripcion": "Infografía 'Buyer Persona' (texto pequeño): figura de una persona con laptop en el centro, rodeada de cajas que explican qué es, por qué definirlo, pasos para crearlo (paso 1 a 5), cómo luce un perfil de buyer persona y cómo usar esa información para mejorar la estrategia de marketing y ventas."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Plantillas de perfil de cliente (sin texto)",
+      "imagenes": [
+        {"tipo": "plantilla", "descripcion": "Círculo 'Perfil del cliente' dividido en tres sectores alrededor de un ícono de persona: Alegrías (¿qué resultados positivos, beneficios o aspiraciones tiene tu cliente?), Trabajos del cliente (¿qué tareas o actividades quiere realizar o qué necesita lograr?) y Frustraciones (¿qué dificultades, problemas o riesgos enfrenta tu cliente?). Corresponde al lienzo de perfil de cliente del Value Proposition Canvas."},
+        {"tipo": "plantilla", "descripcion": "Ficha de buyer persona con marco rojo y casillas en blanco para completar: foto, nombre, edad, localidad, nivel de estudios, sector, redes sociales, personalidad, hobbies y habilidades, metas y objetivos, pain points, puesto de trabajo, método de trabajo, herramientas que usa en el trabajo y '¿qué le podemos aportar nosotros como empresa?'."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Métodos para identificar y construir perfiles",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Mano tocando una pantalla virtual azul con un globo 'INTERNET' rodeado de íconos digitales (correo, nube, carro de compras, gráficos). Representa los datos digitales."},
+        {"tipo": "logo", "descripcion": "Logo del lenguaje R ('R Programming'), herramienta para análisis avanzado/data mining."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Factores que influyen en el proceso de decisión de compra",
+      "imagenes": [
+        {
+          "tipo": "diagrama",
+          "descripcion": "Recuadro central 'Proceso de decisión de compra' con cinco pasos en secuencia: Reconocimiento de la necesidad → Identificación de alternativas → Evaluación de alternativas → Decisiones de compra y otras afines → Comportamiento poscompra (con flecha de retorno). Cuatro bloques lo influyen con flechas:",
+          "datos": {
+            "Fuerzas sociales y de grupo": ["Cultura", "Nivel social", "Grupos de referencia", "Familia y hogar"],
+            "Fuerzas psicológicas": ["Motivación", "Percepción", "Aprendizaje", "Personalidad", "Actitud"],
+            "Información": ["Fuentes comerciales", "Fuentes sociales"],
+            "Factores situacionales (o de situación)": ["Cuándo compran los consumidores", "Dónde compran los consumidores", "Por qué compran los consumidores", "Condiciones en que compran los consumidores"]
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Pero no todo es tan racional (Kahneman y Tversky)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ilustración de colores sobre fondo morado: figuras geométricas (cuadrado rojo, triángulo azul, hexágono fucsia, estrella verde, círculos) con caras de distintas emociones (feliz, enojado, confundido) y dibujos de cerebros. Representa las emociones y atajos mentales en las decisiones."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Algunos sesgos cognitivos",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla de sesgos con ejemplos de compra.",
+          "datos": {
+            "Anclaje": "Un producto aparece rebajado de $100.000 a $60.000. Los $100.000 funcionan como referencia y hacen que $60.000 parezca barato.",
+            "Disponibilidad": "Después de ver varias noticias sobre robos de autos, una persona valora más contratar un seguro automotriz.",
+            "Representatividad": "Un alimento tiene envase verde, imágenes de naturaleza y aspecto artesanal → el consumidor asume que es saludable o ecológico.",
+            "Aversión a la pérdida": "'No pierdas tus puntos acumulados: vencen mañana' puede impulsar más la compra que ofrecer puntos adicionales equivalentes.",
+            "Efecto marco (framing)": "'90% libre de grasa' puede resultar más atractivo que 'contiene 10% de grasa', aunque significan lo mismo.",
+            "Efecto halo": "Un consumidor considera una marca innovadora y, por esa característica positiva, supone que sus productos también son de alta calidad."
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Grados de complejidad del proceso de decisión de compra",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla de dos columnas.",
+          "datos": {
+            "Baja complejidad (procesos de inercia, hábito, rutina)": ["Compra repetida", "Compra frecuente", "Compra de impulso", "Compra de baja implicación", "Producto de bajo precio"],
+            "Alta complejidad (proceso laborioso)": ["Primera compra", "Compra esporádica", "Compra razonada", "Compra de alta implicación", "Producto de precio alto"]
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Análisis al meme del momento: por qué compramos cosas que no usamos (sin texto del profesor)",
+      "imagenes": [
+        {"tipo": "articulo_prensa", "descripcion": "Recorte de diario titulado 'Análisis al meme del momento: por qué compramos cosas que no usamos', con la foto de un académico entrevistado. Se amplía el meme incluido: publicación de Instagram de la cuenta 'accionantipoeticachile' con el texto 'Joven monta un gimnasio en su casa y tampoco va', sobre la foto de una habitación con bicicleta estática y equipamiento de gimnasio. Ilustra compras motivadas por emociones/intenciones que no se concretan."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Data mining: minería de datos",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Círculo con una lupa sobre un cilindro de base de datos rodeado de unos y ceros (código binario) y triángulos de color. Representa el análisis de datos."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Proceso data mining (CRISP-DM)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Ciclo CRISP-DM en inglés alrededor de un ícono de base de datos ('Data'): Business Understanding ↔ Data Understanding → Data Preparation ↔ Modeling → Evaluation → Deployment, con una flecha circular exterior que indica que el proceso se repite. Al lado, el proceso en español: Problema de marketing → Obtención y preparación de datos → Aplicación de técnicas de análisis → Evaluación de resultados → Insights → Decisiones de marketing."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Principales técnicas de data mining",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Herramientas manuales (serrucho rojo, alicates, llave inglesa) de fondo, como metáfora de 'herramientas'. Sobre ellas, la tabla de técnicas (Clustering, Árboles de decisión, Reglas de asociación, Regresión logística), cuyo texto sí está en el .md."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "De los datos a la acción (ejemplo churn)",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Gran pila de archivadores azules y uno negro, inclinada. Representa grandes volúmenes de datos/información."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [5, 9, 10, 12]
+}

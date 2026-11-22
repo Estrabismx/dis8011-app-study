@@ -1,0 +1,172 @@
+{
+  "archivo_pdf": "pdf/viaje-del-cliente.pdf",
+  "archivo_md": "markdown/viaje-del-cliente.md",
+  "titulo": "Viaje del Cliente – Customer Journey (CX)",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 24,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "nota": "Las tablas de las páginas 6, 18 y 19 sí tienen su texto en el .md; aquí solo se describen. El gráfico del restaurante (pág. 20) y el artículo (pág. 12) no están en el .md.",
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Viaje del Cliente – Customer Journey (CX)'",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Ícono negro de un camino sinuoso que se pierde en el horizonte, con señales a los costados. Metáfora del recorrido del cliente."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Circuito del crecimiento",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Ciclo de cuatro etapas con flechas azules: Valor percibido → Satisfacción del cliente → Comportamiento leal → Rentabilidad y crecimiento → Valor percibido."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Relación satisfacción–lealtad y su segmentación",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Matriz 2x2 con eje vertical Lealtad (repetición) y eje horizontal Satisfacción. Cuadrantes: REHENES (alta lealtad, baja satisfacción; recuadro gris: cree que tiene mala experiencia pero no puede cambiar de proveedor a corto plazo por costos de cambio, contratos, etc.), APÓSTOLES (alta lealtad y satisfacción; recuadro celeste: experiencia muy satisfactoria o que supera sus expectativas y lo cuenta a otros), TERRORISTAS (baja lealtad y satisfacción; recuadro rojo: tuvo mala experiencia, transmite su frustración a su círculo social y abandona la empresa a la primera oportunidad) y MERCENARIOS (alta satisfacción, baja lealtad; recuadro amarillo: desafía la regla satisfacción/lealtad, busca precio, compra por impulso, sigue la moda, siempre busca algo a cambio, no es leal a ninguna empresa)."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Construyendo rentabilidad futura",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "La misma matriz (Rehenes, Apóstoles, Terroristas, Mercenarios) con una flecha curva azul que lleva desde Terroristas hacia Apóstoles, pasando por Mercenarios, y un círculo punteado alrededor de Apóstoles. Una gran flecha apunta a un recuadro 'Nuevas relaciones: nuevas posibilidades de operación y de creación de valor'. Idea: convertir clientes en apóstoles construye rentabilidad futura."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "Comparación de modelos de servicio",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Tabla que compara Modelo de Servucción (1980), Modelo Molecular (1982), Modelo SERVQUAL (1985) y Customer Journey (2000, columna destacada en azul) según naturaleza del modelo, componentes clave, punto de vista, similitudes y diferencias clave. El texto está en el .md."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "El viaje del cliente (etapas)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Cinco flechas de colores en secuencia: Awareness/Descubrir (gris: identifica productos que satisfacen necesidades) → Consideration/Evaluar (azul: examina alternativas y establece criterio de decisión) → Acquisition/Adquirir (rojo: dedica tiempo y dinero a conseguirlo) → Service/Servicio (amarillo: integra el producto a su vida, aprende a usarlo) → Loyalty/Lealtad (morado: mantiene y estrecha la relación con la marca y otros consumidores). Encima: Expectativas ('utilidad anticipativa'), Momento de compra, Momento de consumo y disfrute, 'Social currency'. Abajo, una flecha doble abarca todo: 'Experiencia del cliente'."}
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Metodología inbound",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Embudo Atraer → Convertir → Cerrar → Deleitar: Extraños → Visitantes → Prospectos → Clientes → Promotores, con sus herramientas (SEO, blog, redes sociales; llamadas a la acción, formularios, páginas de destino; email, CRM, automatización; encuestas, contenido inteligente, redes sociales). Línea naranja de retorno de Promotores a Extraños. (Mismo diagrama que en mix-promocional, pág. 4)."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "La experiencia del consumidor trasciende al momento de compra y consumo",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Versión en español del viaje: Descubrir (naranja) → Evaluar (gris) → Adquirir (amarillo) → Integrar (azul) → Extender (verde), con las mismas descripciones de la pág. 8, flechas que marcan el 'Momento de compra' y el 'Momento de consumo y disfrute', y la flecha doble 'Experiencia del consumidor'."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Touchpoints (puntos de contacto)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Las cinco flechas Descubrir → Evaluar → Adquirir → Integrar → Extender, con tres grupos de touchpoints: Pre-compra (comerciales, relaciones públicas, website, redes sociales, emailing, muestras, cupones, incentivos, promociones, descuentos), En la compra (packaging, atmósfera en el punto de venta, atención directa al cliente, personal de ventas, navegabilidad de la página web o marketplace) y Postcompra (envío y entrega, servicio postventa, newsletters, programas de fidelización, creación de comunidad, actualizaciones de servicio, cross-selling, up-selling)."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Artículo: 'El viaje del cliente ya no es solo humano'",
+      "imagenes": [
+        {"tipo": "articulo_prensa", "descripcion": "Página de diario: 'Cuando el cliente delega la decisión en una máquina: El viaje del cliente ya no es solo humano. La irrupción de agentes autónomos obliga a repensar dos pilares del marketing: qué es un punto de contacto y quién, exactamente, recorre el viaje'. Columna de una académica (PhD, Universidad de Manchester), con su foto y la de una persona pagando con el celular. Incluye una tabla de configuraciones según quién está del lado del cliente y de la empresa: H2H (humano-humano: persona–persona, ej. vendedor en tienda), H2M (humano-máquina: persona–IA/agente o tótem, ej. tótem de autoservicio o chatbot), M2M/A2A (máquina-máquina, agente a agente: IA del cliente–IA de la empresa, ej. tu asistente de compras negocia con el sistema de la tienda sin intervención). Al pie, un código QR."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Touchpoints con fotos",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Pre-compra: mujer agobiada tapándose los oídos mientras muchas manos le acercan teléfonos antiguos (exceso de llamadas/publicidad)."},
+        {"tipo": "fotografia", "descripcion": "En la compra: fila larga de personas con canastos esperando en la caja de un supermercado."},
+        {"tipo": "fotografia", "descripcion": "Postcompra: caja de cartón aplastada y dañada con cinta 'FRAGILE' (mala entrega)."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "La experiencia se vive como fotos, no como película",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Dos tiras de película con fotogramas de una escena antigua de cine (hombres de traje conversando en una oficina). Ilustra que recordamos la experiencia como una secuencia de momentos (hitos) y no como un continuo."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Beneficios de crear el customer journey",
+      "imagenes": [
+        {"tipo": "infografia", "descripcion": "'Customer Journey Mapping' sobre fondo turquesa: un camino sinuoso desde Start hasta Finish con íconos en las etapas Awareness, Interest, Purchase, Retention y Advocacy."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Experiencia del cliente vs satisfacción",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Dos personas con cajas de cartón en la cabeza que tienen dibujadas caras sonrientes. Representa clientes satisfechos/felices."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "Satisfacción del cliente vs experiencia del cliente",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "Tabla comparativa (alcance temporal, qué mide, métricas CSAT/PSAT vs NPS/CES, quién lo gestiona, indicador de lealtad, herramientas, limitación principal). El texto está en el .md."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Medición de la experiencia: CSAT vs NPS",
+      "imagenes": [
+        {"tipo": "tabla", "descripcion": "CSAT (Customer Satisfaction Score) mide satisfacción con la pregunta '¿Qué tan satisfecho está con...?' en escala 1 a 7. NPS (Net Promoter Score) mide recomendación con '¿Recomendaría XXX a un amigo? – ¿Por qué?' en escala 0 a 10. El texto está en el .md."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Ejemplo restaurante: mapa de experiencia",
+      "imagenes": [
+        {
+          "tipo": "grafico",
+          "descripcion": "Gráfico de línea de la experiencia en un restaurante. Arriba, 9 hitos con íconos; la línea sube a la zona verde (experiencias positivas) o baja a la zona roja (experiencias negativas, 'dolores' o pain points) con caritas.",
+          "datos": [
+            {"hito": "Entrada al local", "experiencia": "positiva", "detalle": "Buena primera impresión del local"},
+            {"hito": "Elegir mesa", "experiencia": "negativa", "detalle": "Dificultad para encontrar una mesa disponible"},
+            {"hito": "Atención camareros", "experiencia": "negativa (punto más bajo)", "detalle": "Atención correcta, pero impersonal o lenta"},
+            {"hito": "Ver la carta", "experiencia": "neutra", "detalle": "Carta poco clara y con pocas opciones"},
+            {"hito": "Elegir platos", "experiencia": "positiva", "detalle": "Buena variedad de platos"},
+            {"hito": "Comer", "experiencia": "positiva", "detalle": "Excelente calidad de la comida"},
+            {"hito": "Pedir postre", "experiencia": "negativa", "detalle": "Demora en la entrega del postre"},
+            {"hito": "Comer postre", "experiencia": "positiva", "detalle": "Muy buen postre"},
+            {"hito": "Pagar", "experiencia": "negativa (cierre)", "detalle": "Proceso de pago lento y poco fluido"}
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Net Promoter Score",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Escala de 0 a 10 con caritas: 0–6 rojas tristes = DETRACTORES; 7–8 celestes neutras = PASSIVES (pasivos); 9–10 verdes felices = PROMOTERS (promotores). Fórmula: % promotores − % detractores = Net Promoter Score."}
+      ]
+    },
+    {
+      "pagina": 22,
+      "tema": "Cómo se obtienen los datos del NPS",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Mujer con un lápiz gigante junto a un portapapeles con una lista de casillas marcadas (encuesta)."}
+      ]
+    },
+    {
+      "pagina": 23,
+      "tema": "Medición de recomendación – NPS",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres grupos de hombres de camisa caricaturizados: Detractores (rojo, seis hombres enojados con brazos cruzados), Pasivos (amarillo, dos hombres encogiéndose de hombros) y Promotores (verde, dos hombres celebrando con los brazos arriba). Fórmula: Promotores − Detractores = Net Promoter Score (NPS)."}
+      ]
+    }
+  ],
+  "paginas_solo_texto": [5, 7, 14, 24]
+}

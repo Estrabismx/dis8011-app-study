@@ -1,0 +1,192 @@
+{
+  "archivo_pdf": "pdf/mix-promocional.pdf",
+  "archivo_md": "markdown/mix-promocional.md",
+  "nombre_original": "MIX PROMOCIONAL.pdf",
+  "titulo": "Estrategia Comercial – Promoción (Mix promocional)",
+  "autor": "René Rodríguez A.",
+  "total_paginas": 21,
+  "elementos_recurrentes": [
+    {
+      "descripcion": "Pie de página en la mayoría de las diapositivas: código de barras sobre papel enrollado con el nombre 'René Rodríguez A.'. Es solo marca del autor."
+    }
+  ],
+  "paginas": [
+    {
+      "pagina": 1,
+      "tema": "Portada 'Estrategia Comercial'",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama de Venn de cuatro círculos de colores pastel: Producto (celeste), Precio (verde), Placement (naranja) y Promoción (rosado), con 'Marketing Mix' en el centro. Representa las 4P."}
+      ]
+    },
+    {
+      "pagina": 2,
+      "tema": "Portada de sección 'Promoción'",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Hombre con sombrero gritando por un megáfono amarillo del que sale la palabra 'BUY' en letras rojas, con un pasillo de supermercado lleno de productos de fondo. Representa la promoción como comunicación persuasiva."}
+      ]
+    },
+    {
+      "pagina": 3,
+      "tema": "Definición de promoción",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Diagrama Industria (conjunto de vendedores) ↔ Mercado (conjunto de compradores): flechas de Comunicación (arriba), Dinero, Bienes y servicios (flecha roja destacada) e Información (abajo). La flecha superior de 'Comunicación' está encerrada en un óvalo rojo punteado para destacar que la promoción es ese flujo de comunicación."}
+      ]
+    },
+    {
+      "pagina": 4,
+      "tema": "Metodología inbound (atraer, convertir, cerrar, deleitar)",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Embudo horizontal en cuatro columnas: ATRAER (Extraños → Visitantes; herramientas: palabras clave SEO, blog, redes sociales), CONVERTIR (Visitantes → Prospectos; llamadas a la acción, formularios, páginas de destino), CERRAR (Prospectos → Clientes; email, herramientas CRM, automatización) y DELEITAR (Clientes → Promotores; encuestas, contenido inteligente, redes sociales). Una línea naranja vuelve desde Promotores hasta Extraños, indicando que los promotores atraen nuevos clientes."}
+      ]
+    },
+    {
+      "pagina": 5,
+      "tema": "Efecto de la promoción en la curva de demanda",
+      "imagenes": [
+        {"tipo": "grafico", "descripcion": "Dos gráficos Precio vs Cantidad. 1) 'Desplazamiento de la demanda': la curva D0 (sin promoción) se desplaza a la derecha a D1 (con promoción) → aumenta la demanda a todos los precios. 2) 'Cambio en la forma de la demanda': la curva D1 se vuelve más curva/plana → modifica la forma (mayor elasticidad de la demanda)."}
+      ]
+    },
+    {
+      "pagina": 6,
+      "tema": "La mezcla o mix promocional",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Círculo central 'Mensajes congruentes, claros y atractivos sobre la compañía y la marca' rodeado por cinco círculos con íconos: Ventas personales (azul), Relaciones públicas (verde), Marketing directo (naranja), Promoción de ventas (morado) y Publicidad (rojo)."}
+      ]
+    },
+    {
+      "pagina": 7,
+      "tema": "Ejemplos visuales de herramientas promocionales (sin texto)",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Máquinas expendedoras de alimentos y café en un pasillo (punto de venta automatizado)."},
+        {"tipo": "collage", "descripcion": "Folletos y catálogos de ofertas con precios, un aviso '¡Llame ya!' y un ícono de correo electrónico (@ con sobre). Representa marketing directo y promoción de ventas."},
+        {"tipo": "fotografia", "descripcion": "Mujer sonriente con audífonos y micrófono de call center, con otras operadoras detrás (telemarketing)."},
+        {"tipo": "fotografia", "descripcion": "Hombre de traje sonriendo mientras firma un documento que dice 'CONTRACT' (venta personal / cierre de negocio)."}
+      ]
+    },
+    {
+      "pagina": 8,
+      "tema": "Herramientas por tipo de promoción",
+      "imagenes": [
+        {
+          "tipo": "tabla",
+          "descripcion": "Tabla de cinco columnas con ejemplos de cada herramienta del mix promocional.",
+          "datos": {
+            "Publicidad": ["Avisos en prensa y revistas", "Comerciales en TV y streaming", "Avisos y frases radiales", "Vía pública", "Buscadores (SEM)", "Redes sociales", "Display y banners", "Influencers (contenido patrocinado)", "Envases y etiquetas"],
+            "Promoción de ventas": ["Descuentos y ofertas", "Cupones y códigos de descuento", "Muestras gratuitas", "Promociones 2x1 y packs", "Programas de fidelización con recompensas", "Liquidaciones y ventas especiales", "Incentivos y regalos por compra", "Pruebas gratuitas por tiempo limitado"],
+            "Marketing directo": ["Email marketing", "Telemarketing", "Mensajería directa (WhatsApp, SMS)", "Correo postal personalizado", "Catálogos", "Campañas automatizadas de CRM", "Landing pages con ofertas personalizadas", "Campañas de retargeting personalizado"],
+            "Relaciones públicas": ["Comunicados y notas de prensa", "Entrevistas y apariciones en medios", "Conferencias, seminarios y eventos institucionales", "Patrocinios institucionales", "Informes anuales y memorias", "Programas de RSE y sostenibilidad"],
+            "Venta personal": ["Visitas y reuniones comerciales", "Presentaciones comerciales", "Venta consultiva B2B", "Ferias y exhibiciones comerciales"]
+          }
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "tema": "Avisos (publicidad gráfica)",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso antiguo de Coca-Cola: niño sonriente con una tapa de botella como gorro, junto a un pack de seis botellas de vidrio con el logo 'Coca-Cola'."},
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso de un servicio de correo ('Post'): una mujer abraza una figura humana formada por hojas con texto manuscrito (una carta). Lema en rojo: 'If you really want to touch someone, send them a letter'."},
+        {"tipo": "aviso_publicitario", "descripcion": "Aviso de fondo rojo: superficie de cuero o tela roja acolchada con botones que tienen forma de caras gritando, y una etiqueta blanca pequeña con texto. El producto/marca anunciado no es legible en la imagen."}
+      ]
+    },
+    {
+      "pagina": 10,
+      "tema": "Campaña publicitaria de actividades al aire libre",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Serie de seis fotos de una misma campaña outdoor, cada una con un texto irónico: 'Vestido de noche.' (personas saltando dentro de sacos de dormir), 'Día de lavandería.' (ropa colgada de un árbol en un campamento), 'Baño de burbujas.' (persona en kayak en aguas rápidas), 'Hotel 5 estrellas.' (excursionistas caminando en un valle), 'Manicure.' (manos sucias de tierra), 'Noche de chicas.' (persona con linterna frontal bajo el cielo estrellado). La marca no aparece visible."}
+      ]
+    },
+    {
+      "pagina": 11,
+      "tema": "Campaña de cerveza Corona",
+      "imagenes": [
+        {"tipo": "aviso_publicitario", "descripcion": "Cinco avisos de cerveza Corona Extra, todos ligados a la playa y el descanso: botella con limón sobre un tronco frente al mar; botella frente a un reloj que marca '13:00'; botella sobre la arena junto a una toalla; hombre en bicicleta con caja de Corona por un camino de playa con el lema 'Encuentra tu playa'; botella con limón sobre una roca junto al mar."}
+      ]
+    },
+    {
+      "pagina": 12,
+      "tema": "Vía pública",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Letrero clásico de Ambrosoli junto a una carretera en un cerro ('¡No corra! ... hay en todas partes')."},
+        {"tipo": "fotografia", "descripcion": "Gran gigantografía en una estación de metro: mujer deportista con productos lácteos y el texto 'Extra proteínas para todos los días'."},
+        {"tipo": "fotografia", "descripcion": "Letrero luminoso de neón nocturno de Valdivieso ('Desde siempre') con una botella de espumante."},
+        {"tipo": "fotografia", "descripcion": "Bus urbano rojo y blanco con publicidad de helado Trencito en su costado."}
+      ]
+    },
+    {
+      "pagina": 13,
+      "tema": "Publicidad ambiental / creativa en espacios urbanos (sin texto)",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Enorme balón de fútbol que parece romper y salir de la fachada de un edificio (instalación publicitaria)."},
+        {"tipo": "fotografia", "descripcion": "Vista aérea de un paso de cebra pintado de rojo con las franjas amarillas como papas fritas saliendo de la caja, con el logo de McDonald's. Peatones cruzando."}
+      ]
+    },
+    {
+      "pagina": 14,
+      "tema": "Comerciales de TV",
+      "imagenes": [
+        {"tipo": "captura_video", "descripcion": "Fotograma de un comercial: una mujer y una niña pequeña en una cocina doméstica, inclinadas sobre la mesa. Acompaña una tabla con enlaces de YouTube a comerciales de Chile (4) y del extranjero (2)."}
+      ]
+    },
+    {
+      "pagina": 15,
+      "tema": "Venta personal – 'El mejor vendedor del mundo'",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Joven vendedor ambulante en una playa, con una tina sobre el hombro y gesticulando con la mano, bajo un quitasol. Se asocia a un video de YouTube (enlace en la diapositiva) como ejemplo de venta personal."}
+      ]
+    },
+    {
+      "pagina": 16,
+      "tema": "Patrocinios / auspicios – Red Bull",
+      "imagenes": [
+        {"tipo": "fotografia", "descripcion": "Paracaidista con traje presurizado blanco y casco con logo de Red Bull, en caída libre con fondo azul (salto estratosférico de Red Bull Stratos)."},
+        {"tipo": "infografia", "descripcion": "Infografía vertical en inglés con las fases del salto: ascenso en globo al borde del espacio (~120.000 pies), salto, récords buscados (vuelo tripulado en globo más alto, caída libre desde mayor altitud, velocidad supersónica, caída libre más larga), apertura del paracaídas y aterrizaje. Marca capas de la atmósfera y referencias (Monte Everest, Boeing 747)."}
+      ]
+    },
+    {
+      "pagina": 17,
+      "tema": "Product placement en el cine",
+      "imagenes": [
+        {"tipo": "articulo_prensa", "descripcion": "Recorte de diario: 'El millonario negocio del placement de marcas en el cine. Mientras en Hollywood los auspiciadores gastan hasta US$100 millones en películas, en Chile no superan los $15 millones'. Incluye foto de E.T. y de un actor en esmoquin; menciona Reese's Pieces, Omega en James Bond, etc."},
+        {"tipo": "captura_video", "descripcion": "Fotograma de película: actriz de cabello oscuro en primer plano, aparentemente en el interior de un tren o vehículo."},
+        {"tipo": "captura_video", "descripcion": "Fotograma de película: camioneta pickup Ford gris oscuro estacionada en un camino rural. Ejemplo de placement de autos."}
+      ]
+    },
+    {
+      "pagina": 18,
+      "tema": "El proceso de la comunicación",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Modelo de 9 elementos: EMISOR (quien genera el mensaje) → Codificación (transforma la idea en mensaje) → CANAL (medio por el que se transmite) → Decodificación (interpreta y da significado) → RECEPTOR (recibe e interpreta). Etiquetas 'Mensaje' sobre los tramos y 'Ruido' (con rayo) interfiriendo en varios puntos. Abajo, 'Retroalimentación' (respuesta del receptor al emisor) cierra el ciclo."}
+      ]
+    },
+    {
+      "pagina": 19,
+      "tema": "Mensaje efectivo y percepción selectiva",
+      "imagenes": [
+        {"tipo": "ilustracion", "descripcion": "Avión de papel azul que recorre una línea punteada hasta un sobre naranja con una notificación roja '1'. Representa el envío y llegada de un mensaje."}
+      ]
+    },
+    {
+      "pagina": 20,
+      "tema": "Modelo AIDA",
+      "imagenes": [
+        {"tipo": "diagrama", "descripcion": "Tres etapas con flechas: Etapa cognoscitiva (azul, ícono de ojo: Atención – captar la atención y generar conocimiento de la marca), Etapa afectiva (naranja, ícono de corazón: Interés–Deseo – despertar interés, actitud favorable y deseo), Etapa conductual (verde, ícono de carro: Acción – motivar compra, solicitud de información o contratación). Debajo, la 'Secuencia AIDA': A Atención (conocer) → I Interés (considerar) → D Deseo (preferir) → A Acción (actuar)."}
+      ]
+    },
+    {
+      "pagina": 21,
+      "tema": "Decisión sobre la mezcla promocional",
+      "imagenes": [
+        {
+          "tipo": "grafico",
+          "descripcion": "Dos gráficos de barras horizontales con la importancia relativa de cada herramienta promocional según el tipo de mercado.",
+          "datos": {
+            "Bienes de consumo": {"Publicidad": "100%", "Promoción de ventas": "80%", "Venta personal": "65%", "RRPP": "40%"},
+            "Bienes de negocios": {"Ventas personales": "100%", "Promoción de ventas": "85%", "Publicidad": "70%", "RRPP": "35%"}
+          }
+        }
+      ]
+    }
+  ],
+  "paginas_solo_texto": []
+}
